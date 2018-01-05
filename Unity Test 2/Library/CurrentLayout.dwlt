@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 114
+  controlID: 113
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 48
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 11
+  controlID: 49
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -365,28 +365,28 @@ MonoBehaviour:
     height: 571
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec4d0000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 16c0edffd8c1edff9ac3edffb0daedfffedbedffbcddedffdcfaedffa4fcedff5efeedffb2ffedff7e2ceeff742eeeff442feeffe435eeff963beeffd466eeff5a68eeffa269eeffa074eeff727ceeffa481eeff0c88eeff028deeff3692eeffbe95eeffca97eeffb69aeeff02a0eeffcca3eeff34a8eeffd0abeeff84adeefffcb0eeffe0b6eeff8eb8eeffb4baeeffa2c1eeff10c8eeff724ef3ffa055f3ff8a14fcff121ffcffc62cfcffc82cfcffca2cfcff7637fcff6445fcff6645fcffec46fcff204efcfff412ffff9a1fffff9ef0ffffa0f0ffffa4f0ffff8cfaffff0000000010290000ac320000ea320000f432000078400000a2400000b6400000
+    m_ExpandedIDs: 04faffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Simple Script
-      m_OriginalName: Simple Script
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 23514
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - 13 - Soft Hyphenation
+  - Unity Test 2
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -451,9 +451,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 466.6905
+    m_Target: 10
     speed: 2
-    m_Value: 466.6905
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -529,19 +529,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/TextMesh Pro/Examples & Extras/Scenes
+    - Assets/Fonts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/TextMesh Pro/Examples & Extras/Scenes
+  - Assets/Fonts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Robert\Documents\GitHub\Test1
+  m_LastProjectPath: C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 119}
-    m_SelectedIDs: 3c4e0000
-    m_LastClickedID: 20028
-    m_ExpandedIDs: 00000000e8270000e44d0000f04d0000384e0000664e000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: e4280000
+    m_LastClickedID: 10468
+    m_ExpandedIDs: 46280000de280000e22f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -569,7 +569,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e8270000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -621,7 +621,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 3}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 268
 --- !u!114 &17
