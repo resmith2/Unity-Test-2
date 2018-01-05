@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
 
 public class StarController : MonoBehaviour
 {
@@ -18,5 +17,6 @@ public class StarController : MonoBehaviour
 	public void OnMouseDown()
 	{
 		MainCamera.transform.position = new Vector3(transform.position.x, transform.position.y, MainCamera.transform.position.z);
-	}
+        Debug.Log(MainCamera.transform.position);
+    }
 }

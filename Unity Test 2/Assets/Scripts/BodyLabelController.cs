@@ -14,8 +14,9 @@ public class BodyLabelController : MonoBehaviour
     {
         var _location = Body.transform.position;
         var height = Body.GetComponent<SpriteRenderer>().bounds.size.y;
+        var locY = _location.y - (height / 2) - (10f * transform.localScale.y);
 
-        transform.position = new Vector3(_location.x, _location.y - (height/2) - (15f * transform.localScale.y), 1f);
+        transform.position = new Vector3(_location.x, locY, 1f);
     }
 
     public static Vector3 PointOnCircle(float radius, float angleInDegrees, Vector3 origin)
