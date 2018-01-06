@@ -2,8 +2,6 @@
 
 public class StarController : MonoBehaviour
 {
-	public Camera MainCamera;
-
 	// Use this for initialization
 	public void Start()
 	{
@@ -16,7 +14,7 @@ public class StarController : MonoBehaviour
 
 	public void OnMouseDown()
 	{
-		MainCamera.transform.position = new Vector3(transform.position.x, transform.position.y, MainCamera.transform.position.z);
-        Debug.Log(MainCamera.transform.position);
+		Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y, Camera.main.transform.position.z);
+        Debug.Log(Camera.main.transform.position);
     }
 }
