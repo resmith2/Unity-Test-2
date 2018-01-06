@@ -3,8 +3,8 @@
 [RequireComponent(typeof(LineRenderer))]
 public class PlanetController : MonoBehaviour
 {
-    public int vertexCount = 100;
-    public float lineWidth = 0.2f;
+    public int VertexCount = 100;
+    public float LineWidth = 0.2f;
 
     private LineRenderer _lineRenderer;
 
@@ -20,10 +20,10 @@ public class PlanetController : MonoBehaviour
 
     private void DrawOrbit()
     {
-        _lineRenderer.widthMultiplier = lineWidth;
-        float deltaTheta = (2f * Mathf.PI) / vertexCount;
+        _lineRenderer.widthMultiplier = LineWidth;
+        float deltaTheta = (2f * Mathf.PI) / VertexCount;
         float theta = 0f;
-        _lineRenderer.positionCount = vertexCount;
+        _lineRenderer.positionCount = VertexCount;
         float radius = transform.position.x;
 
         for (int x = 0; x < _lineRenderer.positionCount; x++)
@@ -37,12 +37,12 @@ public class PlanetController : MonoBehaviour
 #if UNITY_EDITOR
     private void OnDrawGizmos()
     {
-        float deltaTheta = (2f * Mathf.PI) / vertexCount;
+        float deltaTheta = (2f * Mathf.PI) / VertexCount;
         float theta = 0f;
         Vector3 oldPos = Vector3.zero;
         float radius = transform.position.x;
 
-        for (int x = 0; x < vertexCount + 1; x++)
+        for (int x = 0; x < VertexCount + 1; x++)
         {
             Vector3 pos = new Vector3(radius * Mathf.Cos(theta), radius * Mathf.Sin(theta), 0f);
             Gizmos.DrawLine(oldPos, transform.position + pos);
@@ -52,7 +52,7 @@ public class PlanetController : MonoBehaviour
     }
 #endif
 
-    public void OnMouseDown()
+    private void OnMouseDown()
     {
         Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y, Camera.main.transform.position.z);
     }

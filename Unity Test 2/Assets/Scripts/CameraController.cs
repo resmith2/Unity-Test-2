@@ -6,8 +6,8 @@ public class CameraController : MonoBehaviour
 
     private float _scale = 1f;
 
-	// Update is called once per frame
-	public void LateUpdate()
+    // Update is called once per frame
+    private void LateUpdate()
 	{
 		var horizontal = Input.GetAxis("Horizontal");
 		var vertical = Input.GetAxis("Vertical");
@@ -41,13 +41,10 @@ public class CameraController : MonoBehaviour
             Camera.main.transform.position = oldPos;
         }
 
-        Debug.Log("Before: " + Camera.main.transform.position + ", " + _scale);
         BodyCanvas.transform.localScale = new Vector3(_scale, _scale, 1f);
-        Debug.Log("After: " + Camera.main.transform.position + ", " + _scale);
-
     }
 
-    public void ResetPosition()
+    private void ResetPosition()
 	{
 		transform.position = new Vector3(0, 0, -10f);
 	}

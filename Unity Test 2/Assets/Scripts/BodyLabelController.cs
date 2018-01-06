@@ -6,11 +6,11 @@ public class BodyLabelController : MonoBehaviour
     public GameObject Body;
 
     // Use this for initialization
-    public void Start()
+    private void Start()
     {
     }
 
-    public void LateUpdate()
+    private void LateUpdate()
     {
         var _location = Body.transform.position;
         var height = Body.GetComponent<SpriteRenderer>().bounds.size.y;
@@ -19,7 +19,7 @@ public class BodyLabelController : MonoBehaviour
         transform.position = new Vector3(_location.x, locY, 1f);
     }
 
-    public static Vector3 PointOnCircle(float radius, float angleInDegrees, Vector3 origin)
+    private static Vector3 PointOnCircle(float radius, float angleInDegrees, Vector3 origin)
     {
         var radians = angleInDegrees * Math.PI / 180f;
 
