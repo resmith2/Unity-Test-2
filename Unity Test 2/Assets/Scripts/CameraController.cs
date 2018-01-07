@@ -12,10 +12,10 @@ public class CameraController : MonoBehaviour
 		var horizontal = Input.GetAxis("Horizontal");
 		var vertical = Input.GetAxis("Vertical");
         var height = Input.GetAxis("Mouse ScrollWheel");
-
-		var movement = new Vector3(horizontal, vertical, 0f);
-        transform.position += movement;
         var oldPos = Camera.main.transform.position;
+
+        var movement = new Vector3(horizontal, vertical, 0f);
+        transform.position += movement;
 
         if (height > 0)
         {

@@ -3,6 +3,7 @@
 [RequireComponent(typeof(LineRenderer))]
 public class PlanetController : MonoBehaviour
 {
+    public GameObject Body;
     public int VertexCount = 100;
     public float LineWidth = 0.2f;
 
@@ -15,6 +16,7 @@ public class PlanetController : MonoBehaviour
 
     private void LateUpdate()
     {
+        transform.position = Body.transform.position;
         DrawOrbit();
     }
 

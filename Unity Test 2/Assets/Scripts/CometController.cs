@@ -3,12 +3,11 @@
 [RequireComponent(typeof(LineRenderer))]
 public class CometController : MonoBehaviour
 {
+    public GameObject Body;
+
     public float OrbitDistance;
-    public float OrbitPeriodInYears;
-    public int OrbitDay;
     public float Bearing;
-    public float LineWidth = 0.2f;
-    public bool InBound = false;
+    public float LineWidth = 0.02f;
 
     private LineRenderer _lineRenderer;
 
@@ -16,7 +15,12 @@ public class CometController : MonoBehaviour
     {
         _lineRenderer = GetComponent<LineRenderer>();
         DrawOrbit();
-        PositionCommet();
+        transform.position = Body.transform.position;
+    }
+
+    private void LateUpdate()
+    {
+        transform.position = Body.transform.position;
     }
 
     private void DrawOrbit()
@@ -27,18 +31,8 @@ public class CometController : MonoBehaviour
         _lineRenderer.SetPosition(1, pos);
     }
 
-    private void PositionCommet()
+    private void OnMouseDown()
     {
-        var daysInOrbit = 360 * OrbitPeriodInYears;
-        var distTraveledPerDay = OrbitDistance / daysInOrbit;
-        float currentPosition;
-
-        if (InBound)
-            currentPosition = OrbitDistance - (distTraveledPerDay * OrbitDay);
-        else
-            currentPosition = distTraveledPerDay * OrbitDay;
-
-        Vector3 pos = new Vector3(currentPosition * Mathf.Cos(Bearing), currentPosition * Mathf.Sin(Bearing), 0f);
-        transform.position = pos;
+        Camera.main.transform.position = new Vector3(transform.position.x, transform.position.y, Camera.main.transform.position.z);
     }
 }
