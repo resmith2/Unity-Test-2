@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Star
+  - Planet
+  - Dwarf Planet
+  - Moon
+  - Comet
+  - Astroid
   layers:
   - Default
   - TransparentFX

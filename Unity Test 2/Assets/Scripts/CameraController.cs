@@ -17,6 +17,12 @@ public class CameraController : MonoBehaviour
         var movement = new Vector3(horizontal, vertical, 0f);
         transform.position += movement;
 
+        // Dont let 'em get too close...
+        if (height > 0 && Camera.main.transform.position.z < -180)
+        {
+            return;
+        }
+
         if (height > 0)
         {
             _scale *= 2;
@@ -28,18 +34,6 @@ public class CameraController : MonoBehaviour
             _scale /= 2;
             Camera.main.transform.position /= 2f;
         }
-
-        //if (_scale > 10)
-        //{
-        //    _scale = 10f;
-        //    Camera.main.transform.position = oldPos;
-        //}
-
-        //if (_scale < .001f)
-        //{
-        //    _scale = .001f;
-        //    Camera.main.transform.position = oldPos;
-        //}
 
         BodyCanvas.transform.localScale = new Vector3(_scale, _scale, 1f);
     }
