@@ -742,7 +742,7 @@ GameObject:
   - component: {fileID: 173408042}
   m_Layer: 0
   m_Name: PlutoBody
-  m_TagString: Untagged
+  m_TagString: Dwarf Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -922,7 +922,7 @@ GameObject:
   - component: {fileID: 174710314}
   m_Layer: 0
   m_Name: LunaBody
-  m_TagString: Untagged
+  m_TagString: Moon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -935,10 +935,10 @@ Transform:
   m_GameObject: {fileID: 174710311}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.0009999999, y: 0.0009999999, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1672264895}
-  m_RootOrder: 13
+  m_Father: {fileID: 1408965956}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &174710313
 SpriteRenderer:
@@ -1728,7 +1728,7 @@ GameObject:
   - component: {fileID: 299476491}
   m_Layer: 0
   m_Name: SaturnBody
-  m_TagString: Untagged
+  m_TagString: Gas Giant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2027,7 +2027,7 @@ GameObject:
   - component: {fileID: 666047372}
   m_Layer: 0
   m_Name: NeptunrBody
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2257,6 +2257,10 @@ Prefab:
       propertyPath: m_Name
       value: MercuryBody
       objectReference: {fileID: 0}
+    - target: {fileID: 1892255058323834, guid: e7189181ea7c898469fd74f00cb5e08e, type: 2}
+      propertyPath: m_TagString
+      value: Planet
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e7189181ea7c898469fd74f00cb5e08e, type: 2}
   m_IsPrefabParent: 0
@@ -2375,7 +2379,7 @@ GameObject:
   - component: {fileID: 743318054}
   m_Layer: 0
   m_Name: ErisBody
-  m_TagString: Untagged
+  m_TagString: Dwarf Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2759,7 +2763,7 @@ GameObject:
   - component: {fileID: 851807830}
   m_Layer: 0
   m_Name: VenusBody
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4424,7 +4428,7 @@ GameObject:
   - component: {fileID: 1408965957}
   m_Layer: 0
   m_Name: EarthBody
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4482,7 +4486,8 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.001, y: 0.001, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 174710312}
   m_Father: {fileID: 1672264895}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4856,7 +4861,7 @@ GameObject:
   - component: {fileID: 1495041996}
   m_Layer: 0
   m_Name: MarsBody
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5841,7 +5846,6 @@ RectTransform:
   - {fileID: 173408041}
   - {fileID: 743318053}
   - {fileID: 2128363364}
-  - {fileID: 174710312}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5868,7 +5872,7 @@ GameObject:
   - component: {fileID: 1839435909}
   m_Layer: 0
   m_Name: JupiterBody
-  m_TagString: Untagged
+  m_TagString: Gas Giant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6115,7 +6119,7 @@ GameObject:
   - component: {fileID: 1943486995}
   m_Layer: 0
   m_Name: UranusBody
-  m_TagString: Untagged
+  m_TagString: Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6357,7 +6361,7 @@ GameObject:
   - component: {fileID: 2043793836}
   m_Layer: 0
   m_Name: CeresBody
-  m_TagString: Untagged
+  m_TagString: Dwarf Planet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

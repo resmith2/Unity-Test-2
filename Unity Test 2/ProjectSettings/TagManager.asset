@@ -10,6 +10,7 @@ TagManager:
   - Moon
   - Comet
   - Astroid
+  - Gas Giant
   layers:
   - Default
   - TransparentFX

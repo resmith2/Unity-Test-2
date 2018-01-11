@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
-using UnityEngine.EventSystems;
 
 [RequireComponent(typeof(LineRenderer))]
-public class PlanetController : MonoBehaviour, Assets.Scripts.IBodyMovedTarget
+public class PlanetController : MonoBehaviour
 {
     public GameObject TheBodyIOrbit;
     public float OrbitalPeriodInYears;
@@ -27,22 +26,18 @@ public class PlanetController : MonoBehaviour, Assets.Scripts.IBodyMovedTarget
 
     private void LateUpdate()
     {
-        var radius = Mathf.Sqrt(transform.position.x * transform.position.x + transform.position.y * transform.position.y);
+        var x = transform.position.x - TheBodyIOrbit.transform.position.x;
+        var y = transform.position.y - TheBodyIOrbit.transform.position.y;
+
+        var radius = Mathf.Sqrt(x * x + y * y);
         DrawOrbit(radius);
     }
 
-    public void UpdatePosition(string sender)
-    {
-        Debug.Log(name + ": Received Message from " + sender);
-    }
-
-    private void CalculatePosition()
+    public void CalculatePosition()
     {
         var theta = ((2f * Mathf.PI) / _daysPerYear) * DayOfYear;
         Vector3 pos = new Vector3(OrbitDistance * Mathf.Cos(theta), OrbitDistance * Mathf.Sin(theta), 0f);
         transform.position = pos + TheBodyIOrbit.transform.position;
-
-        ExecuteEvents.Execute<Assets.Scripts.IBodyMovedTarget>(TheBodyIOrbit, null, (x, y) => x.UpdatePosition(name));
     }
 
     private void DrawOrbit(float radius)
