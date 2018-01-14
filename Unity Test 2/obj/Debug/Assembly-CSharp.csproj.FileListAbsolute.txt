@@ -14,6 +14,7 @@ C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityE
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.Timeline.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.UI.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Repository.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Unity.Cecil.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Unity.SerializationLogic.dll
@@ -24,6 +25,7 @@ C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Unity.
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Unity.CecilTools.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Unity.Cecil.Pdb.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\Repository.pdb
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.xml
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEditor.xml
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.UI.xml
@@ -35,6 +37,7 @@ C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityE
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.pdb

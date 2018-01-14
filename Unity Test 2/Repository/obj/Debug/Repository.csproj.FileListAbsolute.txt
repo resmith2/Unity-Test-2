@@ -1,0 +1,8 @@
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\bin\Debug\Repository.dll
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\bin\Debug\Repository.pdb
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\obj\Debug\Repository.dll
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\obj\Debug\Repository.pdb
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\bin\Debug\UnityEngine.dll
+C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\Repository\bin\Debug\UnityEngine.xml
