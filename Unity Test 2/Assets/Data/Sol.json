@@ -2,7 +2,7 @@
     {
         "Id": "48971881-51E1-4F1D-81A0-65A5941764C8",
         "Name": "Mercury",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 2,
         "OrbitalDistance": 0.3871,
@@ -34,7 +34,7 @@
     {
         "Id": "E973C334-5272-48B8-8D68-B188D1ADE9B8",
         "Name": "Venus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 2,
         "OrbitalDistance": 0.723,
@@ -66,7 +66,7 @@
     {
         "Id": "07FCF573-E75F-4956-802F-89FCCED7510F",
         "Name": "Earth",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 2,
         "OrbitalDistance": 1,
@@ -130,7 +130,7 @@
     {
         "Id": "BB2E4CCB-9330-4A26-974A-B8B51FA65351",
         "Name": "Mars",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 2,
         "OrbitalDistance": 1.524,
@@ -226,7 +226,7 @@
     {
         "Id": "12097550-0FB7-4A5A-8883-9931DC975DC6",
         "Name": "Ceres",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 2.7663,
@@ -258,7 +258,7 @@
     {
         "Id": "77E815A5-8068-4519-A999-626532DD71FA",
         "Name": "Jupiter",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 4,
         "OrbitalDistance": 5.203,
@@ -930,7 +930,7 @@
     {
         "Id": "93E1CEE4-8689-4773-BFE7-CD0B96C2293E",
         "Name": "Saturn",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 4,
         "OrbitalDistance": 9.53707,
@@ -1858,7 +1858,7 @@
     {
         "Id": "9FBEE8A2-51FF-4D05-946B-784BB28E9E87",
         "Name": "Uranus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 4,
         "OrbitalDistance": 19.191,
@@ -2754,7 +2754,7 @@
     {
         "Id": "83E42985-4BFF-4E89-AB46-5E137797EAAC",
         "Name": "Neptune",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 4,
         "OrbitalDistance": 30.069,
@@ -3202,7 +3202,7 @@
     {
         "Id": "D7E50D33-59B0-4C87-B5DA-50CC916F7B7F",
         "Name": "Pluto",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 39.482,
@@ -3394,7 +3394,7 @@
     {
         "Id": "5CEB158A-6833-4A2B-85A3-C9BBBFD0C439",
         "Name": "Quaoar",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 43,
@@ -3458,7 +3458,7 @@
     {
         "Id": "030B9F0B-B09E-4B69-819A-CF3B86B3CC63",
         "Name": "Orcus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 47.8,
@@ -3522,7 +3522,7 @@
     {
         "Id": "3D5A83FD-CD37-46EC-84EE-73A644126864",
         "Name": "Haumea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 50.5,
@@ -3618,7 +3618,7 @@
     {
         "Id": "4C155091-AEA0-478B-8C95-E05BC2C9DE6D",
         "Name": "Makemake",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 52,
@@ -3650,7 +3650,7 @@
     {
         "Id": "E8AE5132-7E48-4A45-89DF-BB4251179CBB",
         "Name": "Sedna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 76,
@@ -3682,7 +3682,7 @@
     {
         "Id": "8D356C87-7F9E-4437-ABC2-92F7E0E04037",
         "Name": "Eris",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 1,
         "BodyTypeId": 3,
         "OrbitalDistance": 96.6,
@@ -3746,7 +3746,7 @@
     {
         "Id": "B20B2958-3BB1-44E9-B195-1B582421399C",
         "Name": "Apophis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 0.922,
@@ -3778,7 +3778,7 @@
     {
         "Id": "CED9EDF7-9DD3-44DE-B851-091747756A8F",
         "Name": "Aten",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 0.967,
@@ -3810,7 +3810,7 @@
     {
         "Id": "D5DBA4F4-37D8-49EC-9A5B-9C09774A38D8",
         "Name": "Cruithne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 0.998,
@@ -3842,7 +3842,7 @@
     {
         "Id": "7A2EEEC8-6D45-4FDA-B216-D980AA4E0AC8",
         "Name": "2010 TK7",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.00025,
@@ -3874,7 +3874,7 @@
     {
         "Id": "F420DE0C-E4EA-47E4-AB75-A697C1297349",
         "Name": "Icarus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.0779,
@@ -3906,7 +3906,7 @@
     {
         "Id": "134A7327-EDD2-4542-8C4F-395D3BFF1A9F",
         "Name": "Bacchus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.078,
@@ -3938,7 +3938,7 @@
     {
         "Id": "E029623F-7FDB-4630-9670-6938AE219B9E",
         "Name": "Phaethon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.272,
@@ -3970,7 +3970,7 @@
     {
         "Id": "0EA1C7B1-98A3-4492-8656-6F6E49FCCFD8",
         "Name": "Itokawa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.324,
@@ -4002,7 +4002,7 @@
     {
         "Id": "083BB576-00B6-4064-9065-88183CDFD626",
         "Name": "Eros",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.458,
@@ -4034,7 +4034,7 @@
     {
         "Id": "60362001-F156-4A69-830B-77E11318EA4A",
         "Name": "Apollo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.471,
@@ -4066,7 +4066,7 @@
     {
         "Id": "C4CD2AA3-9EAC-4F06-9EEF-72BA65295F29",
         "Name": "Eureka",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.523,
@@ -4098,7 +4098,7 @@
     {
         "Id": "980F0893-0035-490F-B20A-4B41D7D2F2F0",
         "Name": "1998 VF31",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.52414,
@@ -4130,7 +4130,7 @@
     {
         "Id": "5BB2725C-BD9D-446D-A0FC-1AA980A133BF",
         "Name": "1999 UJ7",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.5244446,
@@ -4162,7 +4162,7 @@
     {
         "Id": "09C8C4F4-7B0D-4845-8A08-F460CBC07C1B",
         "Name": "Magellan",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 1.820229,
@@ -4194,7 +4194,7 @@
     {
         "Id": "CFAFBE5D-568A-4674-BE87-6B28EEB7F069",
         "Name": "Medusa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.174,
@@ -4226,7 +4226,7 @@
     {
         "Id": "C696E8F9-26C2-4F74-B36A-F24F944924EF",
         "Name": "Flora",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.202,
@@ -4258,7 +4258,7 @@
     {
         "Id": "5CEA5EC6-47E3-46E2-ACBE-42EDA373A140",
         "Name": "Ariadne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.204,
@@ -4290,7 +4290,7 @@
     {
         "Id": "8AD206D3-5898-4427-B4D9-916ABEB05CC5",
         "Name": "Gaspra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.21,
@@ -4322,7 +4322,7 @@
     {
         "Id": "872CF15E-2AB8-467A-938B-ADA08551B32E",
         "Name": "Feronia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.266,
@@ -4354,7 +4354,7 @@
     {
         "Id": "D3D305AE-B22B-4022-914E-572FD5DFA6A5",
         "Name": "Harmonia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.268,
@@ -4386,7 +4386,7 @@
     {
         "Id": "60131266-4911-4364-A220-1B74622891DB",
         "Name": "Austria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.287,
@@ -4418,7 +4418,7 @@
     {
         "Id": "5628F052-94E8-41A4-A927-8A7DAE12294F",
         "Name": "Melpomene",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.296,
@@ -4450,7 +4450,7 @@
     {
         "Id": "610B2A10-D9FA-4E44-8428-C36D3E0AE6D9",
         "Name": "Zelinda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.297,
@@ -4482,7 +4482,7 @@
     {
         "Id": "05FBAD25-4572-4D6A-98A4-368DB5F468B5",
         "Name": "Sappho",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.297,
@@ -4514,7 +4514,7 @@
     {
         "Id": "40006BAC-77D0-4344-B504-E6DB5D47CD23",
         "Name": "Tercidina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.325,
@@ -4546,7 +4546,7 @@
     {
         "Id": "3BB0936D-BC9C-401A-93B0-6872F34AFCB2",
         "Name": "Freda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.332,
@@ -4578,7 +4578,7 @@
     {
         "Id": "E579FB3C-8674-4742-873A-9C89D5E9466C",
         "Name": "Victoria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.334,
@@ -4610,7 +4610,7 @@
     {
         "Id": "EA3E6ADE-D42E-454E-BCB0-F1A18C0BFD8F",
         "Name": "Braille",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.344,
@@ -4642,7 +4642,7 @@
     {
         "Id": "278EFF8F-0195-46D9-8164-DD4C5131AD04",
         "Name": "Euterpe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.348,
@@ -4674,7 +4674,7 @@
     {
         "Id": "95C19BB2-5E5C-4024-AA00-05881B9A9455",
         "Name": "Vesta",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.361,
@@ -4706,7 +4706,7 @@
     {
         "Id": "656C6168-8683-4AD6-986C-0BB9759BFAB3",
         "Name": "Klio",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.362,
@@ -4738,7 +4738,7 @@
     {
         "Id": "B63FB2A0-1F17-4566-AD99-B98812CAED22",
         "Name": "Nemausa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.365,
@@ -4770,7 +4770,7 @@
     {
         "Id": "3EA18F50-8042-4F85-B293-9F7A1CD54DCC",
         "Name": "Urania",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.367,
@@ -4802,7 +4802,7 @@
     {
         "Id": "919069B9-5D4C-45AF-B2BA-DE7C4A25E0C1",
         "Name": "Artemis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.374,
@@ -4834,7 +4834,7 @@
     {
         "Id": "6197B185-C0DE-4A1B-9689-2AE073AD0F7E",
         "Name": "Thyra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.38,
@@ -4866,7 +4866,7 @@
     {
         "Id": "D958E4DE-1410-4EE8-865D-D6C9BB50553C",
         "Name": "Brucia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.382,
@@ -4898,7 +4898,7 @@
     {
         "Id": "198DED7B-06A0-4274-8E17-E002B02279B8",
         "Name": "Athamantis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.382,
@@ -4930,7 +4930,7 @@
     {
         "Id": "D33C0F16-4B73-46C5-8129-A56CEC159203",
         "Name": "Herscel",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.382,
@@ -4962,7 +4962,7 @@
     {
         "Id": "87252BFD-C9A4-4C81-8CB9-10927039F018",
         "Name": "Iris",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.385,
@@ -4994,7 +4994,7 @@
     {
         "Id": "8C0377FF-57A5-43C0-8641-A0DE82753944",
         "Name": "9 Metis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.387,
@@ -5026,7 +5026,7 @@
     {
         "Id": "598910AD-FB11-492B-90C6-6D9666268756",
         "Name": "Echo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.394,
@@ -5058,7 +5058,7 @@
     {
         "Id": "52B3BABE-F203-4BC4-A74C-727E1F9D7B79",
         "Name": "Ausonia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.395,
@@ -5090,7 +5090,7 @@
     {
         "Id": "4C436C99-5377-4EE3-9922-AD96E092BD46",
         "Name": "Phocaea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.4,
@@ -5122,7 +5122,7 @@
     {
         "Id": "533CD6B9-69F6-4725-A7B7-567742C3F1B7",
         "Name": "Nausikaa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.402,
@@ -5154,7 +5154,7 @@
     {
         "Id": "5F55BA72-74EC-475A-9BFA-5855EB70FCC4",
         "Name": "Massalia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.408,
@@ -5186,7 +5186,7 @@
     {
         "Id": "A136D5A6-5492-4F40-9D95-993E7CB0BD8F",
         "Name": "Euler",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.417,
@@ -5218,7 +5218,7 @@
     {
         "Id": "46E6BC27-DEDA-4540-90BC-B083D1425600",
         "Name": "Asia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.421,
@@ -5250,7 +5250,7 @@
     {
         "Id": "3AFD34E8-1051-4C0B-AEE2-1A361B023846",
         "Name": "Nysa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.4238,
@@ -5282,7 +5282,7 @@
     {
         "Id": "C269C929-BBE2-454B-ACB7-61348BC8D7EB",
         "Name": "Hebe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.426,
@@ -5314,7 +5314,7 @@
     {
         "Id": "9AA2EE1F-677A-496B-9702-7EA626BBEE4B",
         "Name": "Hertha",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.4284,
@@ -5346,7 +5346,7 @@
     {
         "Id": "AB389FA4-1411-481F-82BF-34AA49D80BF9",
         "Name": "Beatrix",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.432,
@@ -5378,7 +5378,7 @@
     {
         "Id": "170A9360-C017-4B3D-8B26-9EB5892027C1",
         "Name": "Vala",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.432,
@@ -5410,7 +5410,7 @@
     {
         "Id": "732A097E-B17F-4E7E-BF4D-7C71CE404AEE",
         "Name": "Iphigenia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.433,
@@ -5442,7 +5442,7 @@
     {
         "Id": "E3FDA05A-41E0-4065-B6F8-FA64CA06F604",
         "Name": "Lutetia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.435,
@@ -5474,7 +5474,7 @@
     {
         "Id": "4A96C79D-967A-4D87-B345-323B4077A324",
         "Name": "Fortuna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.441,
@@ -5506,7 +5506,7 @@
     {
         "Id": "A7BA9756-7224-427E-99CE-A96D6914701D",
         "Name": "Isis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.442,
@@ -5538,7 +5538,7 @@
     {
         "Id": "F60CE11C-212F-4C77-AF68-52431F2E9275",
         "Name": "Eurynome",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.445,
@@ -5570,7 +5570,7 @@
     {
         "Id": "589B7E13-E66E-4385-906C-EBD775395BF2",
         "Name": "Parthenope",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.453,
@@ -5602,7 +5602,7 @@
     {
         "Id": "5D64367A-A0E8-436E-B1A8-BCDE532F4320",
         "Name": "Thetis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.47,
@@ -5634,7 +5634,7 @@
     {
         "Id": "87EB1364-B491-4E65-9B72-0E165ED4114E",
         "Name": "Hestia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.526,
@@ -5666,7 +5666,7 @@
     {
         "Id": "0AF988B7-7A8C-4DD9-8F2A-DF806D170B53",
         "Name": "Toutatis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.5294,
@@ -5698,7 +5698,7 @@
     {
         "Id": "099C3FFE-254B-4E3C-BA49-E6FED1958591",
         "Name": "Julia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.55,
@@ -5730,7 +5730,7 @@
     {
         "Id": "74472849-269D-44FB-9B46-FBEF969E5949",
         "Name": "Amphitrite",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.554,
@@ -5762,7 +5762,7 @@
     {
         "Id": "DFB0B7FD-C2AC-4612-91B6-283C133B6C51",
         "Name": "Sophrosyne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.563,
@@ -5794,7 +5794,7 @@
     {
         "Id": "2D7E7FD1-7F71-4279-9E93-5E9371BCF0DA",
         "Name": "Masursky",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.568,
@@ -5826,7 +5826,7 @@
     {
         "Id": "91845FE1-9D92-4C65-8C78-0A48633BCAA8",
         "Name": "Astraea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.573,
@@ -5858,7 +5858,7 @@
     {
         "Id": "A1CBE774-2C05-4FDE-839F-E66EF6856F58",
         "Name": "Notburga",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.574,
@@ -5890,7 +5890,7 @@
     {
         "Id": "537CBC1F-E19A-4A5D-B7B0-0498C2492B63",
         "Name": "Egeria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.576,
@@ -5922,7 +5922,7 @@
     {
         "Id": "792DCA32-ED2D-4B20-A4FC-408AA543B4AC",
         "Name": "Bolivana",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.5762,
@@ -5954,7 +5954,7 @@
     {
         "Id": "F9A6635E-1CFF-426F-B8ED-7A054A7E6EDF",
         "Name": "Aspasia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.577,
@@ -5986,7 +5986,7 @@
     {
         "Id": "2D9F250D-9F8F-4A3F-AF46-21F5253FBE86",
         "Name": "Helena",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.583,
@@ -6018,7 +6018,7 @@
     {
         "Id": "5E56401A-6C6C-4B1D-81FE-E3B4261EB6A2",
         "Name": "Thia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.584,
@@ -6050,7 +6050,7 @@
     {
         "Id": "0654EDCA-4907-4247-94C6-7EC32BF21642",
         "Name": "Irene",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.585,
@@ -6082,7 +6082,7 @@
     {
         "Id": "09C21F5C-8BDF-43AD-BFFA-EB9E9F268443",
         "Name": "Pomona",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.588,
@@ -6114,7 +6114,7 @@
     {
         "Id": "67ABA02B-3D5C-4DE5-9852-343DE56621AE",
         "Name": "Aegina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.591,
@@ -6146,7 +6146,7 @@
     {
         "Id": "D5374D01-0C33-4803-9F3A-784092213736",
         "Name": "Ate",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.595,
@@ -6178,7 +6178,7 @@
     {
         "Id": "4C649D5F-AA30-46AA-9DCB-8CCF8BEAB968",
         "Name": "Desiderata",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.595,
@@ -6210,7 +6210,7 @@
     {
         "Id": "CDF8CDF7-1F9C-4030-9264-7198C69D70D3",
         "Name": "Melete",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.595,
@@ -6242,7 +6242,7 @@
     {
         "Id": "017CD6C2-5EA9-4480-82DD-CCE04FDE05A5",
         "Name": "Arsinoe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.595,
@@ -6274,7 +6274,7 @@
     {
         "Id": "B575999E-D7DC-441E-AE0D-4F249C2DCC96",
         "Name": "Aurelia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.596,
@@ -6306,7 +6306,7 @@
     {
         "Id": "C5CAD7ED-98DC-49C7-9B0E-4E2CF1B934E6",
         "Name": "Aethra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.608,
@@ -6338,7 +6338,7 @@
     {
         "Id": "A9BEE504-202E-4BA9-A357-56C4A41425BD",
         "Name": "Panopaea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.61526,
@@ -6370,7 +6370,7 @@
     {
         "Id": "F23CAA05-8AFB-4854-A2AB-5E31DC7DD8A1",
         "Name": "Diana",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.62,
@@ -6402,7 +6402,7 @@
     {
         "Id": "42EA63CF-88A1-46D4-8B07-38364BD488E7",
         "Name": "Kalypso",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.62,
@@ -6434,7 +6434,7 @@
     {
         "Id": "FDA469B0-A4D6-41EF-837C-B4362D9ECDF1",
         "Name": "Albert",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.628,
@@ -6466,7 +6466,7 @@
     {
         "Id": "AFBCE980-9EFE-48E3-BAEE-1EBADF3D2819",
         "Name": "Thalia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.628,
@@ -6498,7 +6498,7 @@
     {
         "Id": "BDF1BC54-E907-4729-BE8B-8A201B750B7B",
         "Name": "Alkeste",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.63,
@@ -6530,7 +6530,7 @@
     {
         "Id": "5E93DB0D-E49A-4AD3-A93D-91109013F2F5",
         "Name": "Eva",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.6336,
@@ -6562,7 +6562,7 @@
     {
         "Id": "5A7891C1-6C0E-461F-9F88-18EC85C60011",
         "Name": "Fides",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.641,
@@ -6594,7 +6594,7 @@
     {
         "Id": "DE801CF3-133F-4B6B-A97B-4EDD0B0BF0E0",
         "Name": "Eunomia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.642,
@@ -6626,7 +6626,7 @@
     {
         "Id": "5AEA4EE7-B48A-4F92-A83C-0EE917FB9082",
         "Name": "Mathilde",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.645,
@@ -6658,7 +6658,7 @@
     {
         "Id": "106354F2-7809-46E1-A406-86E1E9160A5E",
         "Name": "Maja",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.645,
@@ -6690,7 +6690,7 @@
     {
         "Id": "920E34DC-D9AC-484D-90DB-C0DDBA62BEDF",
         "Name": "Hedwig",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.65,
@@ -6722,7 +6722,7 @@
     {
         "Id": "D7A6BF62-2500-4AA1-8D61-1AB891880370",
         "Name": "Virginia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.651,
@@ -6754,7 +6754,7 @@
     {
         "Id": "90F040E1-A371-4337-8A34-BF125595ED5E",
         "Name": "85 Io",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.652,
@@ -6786,7 +6786,7 @@
     {
         "Id": "469A752A-00B6-4BE4-86E9-422CB83BDDCA",
         "Name": "Proserpina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.656,
@@ -6818,7 +6818,7 @@
     {
         "Id": "434D55F0-A88F-4355-A65E-2F66B6FA9C13",
         "Name": "Asterope",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.66,
@@ -6850,7 +6850,7 @@
     {
         "Id": "A1F0E50B-590A-4ECE-9976-4260A3790D4C",
         "Name": "Ganymed",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.662,
@@ -6882,7 +6882,7 @@
     {
         "Id": "2A402226-FE9F-4990-935C-0B7E447962F0",
         "Name": "Miriam",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.66303,
@@ -6914,7 +6914,7 @@
     {
         "Id": "70157BDE-8ADA-420A-BAE7-23B5E6EE80B7",
         "Name": "Vanadis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.664,
@@ -6946,7 +6946,7 @@
     {
         "Id": "3F8AA370-88D6-4835-B4F1-83E8A785605A",
         "Name": "Dike",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.664,
@@ -6978,7 +6978,7 @@
     {
         "Id": "D7EEE9B5-C776-4DBE-8603-7468AB046AEA",
         "Name": "Lumen",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.666,
@@ -7010,7 +7010,7 @@
     {
         "Id": "CADBAB29-8D64-4023-A471-EBE6990E822B",
         "Name": "Klotho",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.668,
@@ -7042,7 +7042,7 @@
     {
         "Id": "D4D0004F-7722-450D-9D86-3970938D7D28",
         "Name": "Frigga",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.669,
@@ -7074,7 +7074,7 @@
     {
         "Id": "74CF4FD7-9227-4B86-B492-52205415626B",
         "Name": "Juno",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.672,
@@ -7106,7 +7106,7 @@
     {
         "Id": "9AB10221-2D71-4A70-BE3B-070E84463226",
         "Name": "Adeona",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.673,
@@ -7138,7 +7138,7 @@
     {
         "Id": "018A81E8-51A0-4026-8460-4D14496296DF",
         "Name": "Kassandra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.676,
@@ -7170,7 +7170,7 @@
     {
         "Id": "FF489736-A9BC-40DF-AB24-DAB330A77B44",
         "Name": "Bamberga",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.683,
@@ -7202,7 +7202,7 @@
     {
         "Id": "71693404-0469-4D94-B1DA-9F0E042FFC52",
         "Name": "Angelina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.684,
@@ -7234,7 +7234,7 @@
     {
         "Id": "74F32C79-E955-4486-A240-74662DBC64D3",
         "Name": "Circe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.685,
@@ -7266,7 +7266,7 @@
     {
         "Id": "2E8ED294-5E0F-44F8-82DA-784FB9FEF122",
         "Name": "Brunhild",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.694,
@@ -7298,7 +7298,7 @@
     {
         "Id": "9D5E83D0-D657-4939-913D-FE16E68A18E0",
         "Name": "Felicitas",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.696,
@@ -7330,7 +7330,7 @@
     {
         "Id": "7F3251B8-A703-45FE-A152-7314D44DAD1F",
         "Name": "Concordia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.701,
@@ -7362,7 +7362,7 @@
     {
         "Id": "211ECF37-11B4-43EF-BF43-201A7E68F1CC",
         "Name": "Hera",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.702,
@@ -7394,7 +7394,7 @@
     {
         "Id": "ED07EC68-5BEA-4663-9CB2-7560BC430ADA",
         "Name": "Alexandra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.712,
@@ -7426,7 +7426,7 @@
     {
         "Id": "A06B6648-8BDF-4A92-AAAF-3B1829A92732",
         "Name": "Elpis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.715,
@@ -7458,7 +7458,7 @@
     {
         "Id": "3FCE447D-F6B7-4ED2-9BDA-A9DFC71AA82C",
         "Name": "Lucina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.719,
@@ -7490,7 +7490,7 @@
     {
         "Id": "FF4705A2-A912-441D-BDAA-253C318626B8",
         "Name": "Eugenia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.72,
@@ -7522,7 +7522,7 @@
     {
         "Id": "3F76C96C-EB87-48E3-B860-B8F0E6016BE8",
         "Name": "Xanthippe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.728,
@@ -7554,7 +7554,7 @@
     {
         "Id": "456C4BC7-8290-4B58-8B1A-AD54996E2803",
         "Name": "Chloris",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.729,
@@ -7586,7 +7586,7 @@
     {
         "Id": "5EFDE6A3-404D-4FAA-91F4-5C1D669B1629",
         "Name": "Lamberta",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.732,
@@ -7618,7 +7618,7 @@
     {
         "Id": "84E5B387-4FDC-4274-B8BB-008576047936",
         "Name": "Siwa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.733,
@@ -7650,7 +7650,7 @@
     {
         "Id": "7E835463-AB87-456B-878D-42F686E15CD0",
         "Name": "Lydia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.733,
@@ -7682,7 +7682,7 @@
     {
         "Id": "37D72EFC-4209-4124-AEC5-45A949DADDA4",
         "Name": "Pompeja",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.736,
@@ -7714,7 +7714,7 @@
     {
         "Id": "C4C83D97-4BD8-4FFD-A612-4AA99EA0A455",
         "Name": "Mandeville",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.737,
@@ -7746,7 +7746,7 @@
     {
         "Id": "B834D612-A4E5-4165-AD47-31947485F7E7",
         "Name": "Dynamene",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.739,
@@ -7778,7 +7778,7 @@
     {
         "Id": "CC944245-9F22-4FC0-8235-6309C6EFF807",
         "Name": "Eukrate",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.74,
@@ -7810,7 +7810,7 @@
     {
         "Id": "E4D8DF60-6B6D-47B4-B8EA-29D369A4E083",
         "Name": "Aquitania",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.74,
@@ -7842,7 +7842,7 @@
     {
         "Id": "52D354FF-7E40-41AA-8A75-AF7DA3F15E1E",
         "Name": "Ino",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.742,
@@ -7874,7 +7874,7 @@
     {
         "Id": "6EF23E0E-303B-48EB-8B35-0D1ED9AA88EA",
         "Name": "Liberatix",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.742,
@@ -7906,7 +7906,7 @@
     {
         "Id": "581CBE27-778B-41A3-9FE5-AE02CC96F345",
         "Name": "Leda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.743,
@@ -7938,7 +7938,7 @@
     {
         "Id": "80C96887-E512-46E3-9F96-F2336DA61457",
         "Name": "Brixia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.746,
@@ -7970,7 +7970,7 @@
     {
         "Id": "A6E63C95-832D-4611-AC34-7D8EE0F8752E",
         "Name": "Atalante",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.747,
@@ -8002,7 +8002,7 @@
     {
         "Id": "FCECB629-87B9-43B2-A34D-F27EB67E610A",
         "Name": "Nemesis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.749,
@@ -8034,7 +8034,7 @@
     {
         "Id": "486EC12C-6A21-4E58-BDF8-B2B6EF2151C0",
         "Name": "Polyxo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.751,
@@ -8066,7 +8066,7 @@
     {
         "Id": "923848B1-8F55-41BF-9DDC-EA64E600966B",
         "Name": "Minerva",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.754,
@@ -8098,7 +8098,7 @@
     {
         "Id": "76598E4B-B8B2-47C5-9DC3-AAF0AE37F4D6",
         "Name": "Liguria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.755,
@@ -8130,7 +8130,7 @@
     {
         "Id": "6781F7BE-1621-4066-B90B-CF11F4D614AB",
         "Name": "Niobe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.755,
@@ -8162,7 +8162,7 @@
     {
         "Id": "28D2E77D-28A3-4F90-9B91-BA035DFD6B52",
         "Name": "Glauke",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.756,
@@ -8194,7 +8194,7 @@
     {
         "Id": "9FFAFD75-A0F9-4681-8302-1CED6B11FCEE",
         "Name": "Johanna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.756,
@@ -8226,7 +8226,7 @@
     {
         "Id": "5593C890-D385-49E1-8935-2204C4F96635",
         "Name": "Pandora",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.758,
@@ -8258,7 +8258,7 @@
     {
         "Id": "916CE6DD-75F2-4DCA-B907-043BEB654D98",
         "Name": "Alkmene",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.76,
@@ -8290,7 +8290,7 @@
     {
         "Id": "0EC3D288-1324-472A-81FB-CEADAE2F6431",
         "Name": "Adria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.763,
@@ -8322,7 +8322,7 @@
     {
         "Id": "0B48E79F-D02A-4EAD-A98E-637B4777D86B",
         "Name": "Daphne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.765,
@@ -8354,7 +8354,7 @@
     {
         "Id": "1E88808A-2B5F-44FE-B1C9-058247BB5867",
         "Name": "Thisbe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.768,
@@ -8386,7 +8386,7 @@
     {
         "Id": "5A73A66B-D148-46A3-A8BA-5B8333605F18",
         "Name": "Laetita",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.769,
@@ -8418,7 +8418,7 @@
     {
         "Id": "7CB83C78-85F2-4CD0-9156-7189851DF0DE",
         "Name": "Sirona",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.769,
@@ -8450,7 +8450,7 @@
     {
         "Id": "26B0305C-3F54-49DE-9809-4852331DC3CF",
         "Name": "Gallia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.77,
@@ -8482,7 +8482,7 @@
     {
         "Id": "E6CB4D37-9CD8-4661-86D1-2EF1D4617498",
         "Name": "Pallas",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.772,
@@ -8514,7 +8514,7 @@
     {
         "Id": "039CA946-CF32-42B7-BB07-6ACFF9B6AB71",
         "Name": "Herculina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.772,
@@ -8546,7 +8546,7 @@
     {
         "Id": "2A664930-459E-4DE5-9085-5FAC33415143",
         "Name": "Gyptis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.775,
@@ -8578,7 +8578,7 @@
     {
         "Id": "73D62E66-AA09-4BA0-87AC-66EE47076766",
         "Name": "Bellona",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.778,
@@ -8610,7 +8610,7 @@
     {
         "Id": "52862233-58D3-4A6B-821F-9F5339507A9A",
         "Name": "Galatea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.778,
@@ -8642,7 +8642,7 @@
     {
         "Id": "E075E337-BDE1-433D-A2E5-524E0A206A4E",
         "Name": "Juewa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.784,
@@ -8674,7 +8674,7 @@
     {
         "Id": "C444B9FE-673D-4440-8603-7CEAEF95ED3F",
         "Name": "Kleopatra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.793,
@@ -8706,7 +8706,7 @@
     {
         "Id": "A92B271F-FC44-4F48-9492-68A82B5636F4",
         "Name": "Hermentaria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.796,
@@ -8738,7 +8738,7 @@
     {
         "Id": "2089B484-BD97-4ACA-B268-6992ED9F6075",
         "Name": "Eleonora",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.799,
@@ -8770,7 +8770,7 @@
     {
         "Id": "A35F9D43-279B-424F-87BE-4CF7540E4203",
         "Name": "Corduba",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.803,
@@ -8802,7 +8802,7 @@
     {
         "Id": "29C0DD6B-FD6A-4989-A8A3-47F344EBF0F7",
         "Name": "Hispania",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.837,
@@ -8834,7 +8834,7 @@
     {
         "Id": "F1D9A883-0474-4B10-92C0-89B3E6009B8D",
         "Name": "Terpsichore",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.855,
@@ -8866,7 +8866,7 @@
     {
         "Id": "B2C3B73E-31A1-44F5-8E76-CB88002B1843",
         "Name": "Irmintraud",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.858,
@@ -8898,7 +8898,7 @@
     {
         "Id": "D3B92B1A-9D0E-40F6-AFF2-AB04FA4F78DE",
         "Name": "Ida",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.862,
@@ -8930,7 +8930,7 @@
     {
         "Id": "59B60AFA-E588-4603-8464-237EFC4AB855",
         "Name": "Koronis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.867,
@@ -8962,7 +8962,7 @@
     {
         "Id": "F21EA73B-7E98-49B8-AF6E-6C0962B33F15",
         "Name": "Antigone",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.868,
@@ -8994,7 +8994,7 @@
     {
         "Id": "C6B9A531-B2ED-47E5-B29F-F487877A6DA0",
         "Name": "Aglaja",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.878,
@@ -9026,7 +9026,7 @@
     {
         "Id": "0572FA24-48BE-4718-BE04-2084A480F646",
         "Name": "Papagena",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.8856,
@@ -9058,7 +9058,7 @@
     {
         "Id": "56334D85-10A1-4CA2-AEC3-F9DA0B538BEA",
         "Name": "Hippo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.887,
@@ -9090,7 +9090,7 @@
     {
         "Id": "54ADFAD3-EDFA-45F3-B1C4-D52E844EB70E",
         "Name": "Siegena",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.895,
@@ -9122,7 +9122,7 @@
     {
         "Id": "93F9CBFE-66F1-4EF0-89C2-D34F8A56E090",
         "Name": "Kolga",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.898,
@@ -9154,7 +9154,7 @@
     {
         "Id": "037E3F6F-9469-41AA-8F7C-61413D50A33A",
         "Name": "Hypatia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.906,
@@ -9186,7 +9186,7 @@
     {
         "Id": "B722FE7D-D013-4390-AB6A-5824210F73B8",
         "Name": "Kalliope",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.9112,
@@ -9218,7 +9218,7 @@
     {
         "Id": "1E11BD5E-FE49-451D-9FD9-423C3369DF63",
         "Name": "Psyche",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.921,
@@ -9250,7 +9250,7 @@
     {
         "Id": "8BE782C0-E586-490B-AD15-2C357B998B63",
         "Name": "Erminia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.924,
@@ -9282,7 +9282,7 @@
     {
         "Id": "2BBA8A35-0A0B-478A-B91B-CD0271C4A8B0",
         "Name": "Scheila",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.9265,
@@ -9314,7 +9314,7 @@
     {
         "Id": "0F06E6E9-E257-480D-95CB-FFD77D4C2C6A",
         "Name": "Dembowska",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.927,
@@ -9346,7 +9346,7 @@
     {
         "Id": "5E2D1BE2-C530-47B0-ACF4-F3FC77453590",
         "Name": "Berbericia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.932,
@@ -9378,7 +9378,7 @@
     {
         "Id": "136C6CA3-2667-4E41-BD27-68D62DE7CDEF",
         "Name": "Bertha",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.939,
@@ -9410,7 +9410,7 @@
     {
         "Id": "0BE9D174-592B-41A4-BEE8-1888B3DB7173",
         "Name": "Hesperia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.98,
@@ -9442,7 +9442,7 @@
     {
         "Id": "37F4FFDB-6956-44FE-907A-05CCC52D6897",
         "Name": "Nuwa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.981,
@@ -9474,7 +9474,7 @@
     {
         "Id": "AEA73FAE-B7CC-4258-A3B8-4FB48A111889",
         "Name": "Danae",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.982,
@@ -9506,7 +9506,7 @@
     {
         "Id": "7EC95E63-74E3-4BEC-AA7E-831564901E1A",
         "Name": "Ianthe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.985,
@@ -9538,7 +9538,7 @@
     {
         "Id": "A9C9CC34-B471-42AA-8FCC-3B3F8825360B",
         "Name": "Leukothea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.99,
@@ -9570,7 +9570,7 @@
     {
         "Id": "29B168A9-8CB9-4BF1-A312-FCA41B9154F2",
         "Name": "Lomia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.991,
@@ -9602,7 +9602,7 @@
     {
         "Id": "CC2E9CA2-9AF3-45CC-BDDF-1C4939B920D0",
         "Name": "Carlova",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 2.998,
@@ -9634,7 +9634,7 @@
     {
         "Id": "B3A04A92-FAD5-4B9E-A8DD-0C8A03553B07",
         "Name": "Tanete",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3,
@@ -9666,7 +9666,7 @@
     {
         "Id": "0DF4A60C-EBD7-4FEB-83A0-46C3638E4E1B",
         "Name": "Charybdis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.005,
@@ -9698,7 +9698,7 @@
     {
         "Id": "205EC552-F772-4442-8792-54BB5ECAD7A7",
         "Name": "Eos",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.011,
@@ -9730,7 +9730,7 @@
     {
         "Id": "B5460821-4D02-492B-B5CA-246B48FE3F82",
         "Name": "Laurentia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.0175,
@@ -9762,7 +9762,7 @@
     {
         "Id": "B4291A75-FB02-4FF6-8AFE-EF69DF25D499",
         "Name": "Isolda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.039,
@@ -9794,7 +9794,7 @@
     {
         "Id": "85461DE2-24CA-4C7B-92FE-EAAD75D3AC45",
         "Name": "Marion",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.04,
@@ -9826,7 +9826,7 @@
     {
         "Id": "7AA4B3E8-C390-40D1-91DA-1BEA4220E742",
         "Name": "Emma",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.043,
@@ -9858,7 +9858,7 @@
     {
         "Id": "DA9DCF2B-D667-4E3C-B7FF-35A5DD5AD020",
         "Name": "Armida",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.046,
@@ -9890,7 +9890,7 @@
     {
         "Id": "B3EFD6FC-4C10-4268-B644-3A2A7FF2C425",
         "Name": "Germania",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.055,
@@ -9922,7 +9922,7 @@
     {
         "Id": "D966A5D2-D673-4B3C-8C4E-CC1CB8759FF6",
         "Name": "Aegle",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.057,
@@ -9954,7 +9954,7 @@
     {
         "Id": "B9D8357A-83C2-4237-AEFB-2D30EF40315D",
         "Name": "Cyrene",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.058,
@@ -9986,7 +9986,7 @@
     {
         "Id": "093BC3F1-897E-452F-A6DE-00B226E2ADB8",
         "Name": "Patientia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.059,
@@ -10018,7 +10018,7 @@
     {
         "Id": "ABB7A870-22A6-477D-A3DE-E1228BA77BBC",
         "Name": "Gerlinde",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.061,
@@ -10050,7 +10050,7 @@
     {
         "Id": "F08A73EC-44AD-44EB-A60B-4B89DE9E9A5A",
         "Name": "Interamnia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.062,
@@ -10082,7 +10082,7 @@
     {
         "Id": "936DCA60-A02D-44FD-9B94-8BEF3F057360",
         "Name": "Diotima",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.066,
@@ -10114,7 +10114,7 @@
     {
         "Id": "821F0305-6125-4AAC-B518-92A0F4524D18",
         "Name": "Arethusa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.068,
@@ -10146,7 +10146,7 @@
     {
         "Id": "3D21E420-1273-4A9F-9ACB-2F242EC0C9C3",
         "Name": "Pales",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.0939,
@@ -10178,7 +10178,7 @@
     {
         "Id": "0BBB1749-6F86-4E67-ACC3-972C8F54890A",
         "Name": "Marianna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.094,
@@ -10210,7 +10210,7 @@
     {
         "Id": "37A73321-BCEC-41CB-95BD-836DB955D258",
         "Name": "Hekate",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.094,
@@ -10242,7 +10242,7 @@
     {
         "Id": "8610C5BD-685E-4273-A966-473B3ED33C01",
         "Name": "Adorea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.095,
@@ -10274,7 +10274,7 @@
     {
         "Id": "452C621B-854B-4BAA-A039-BA51D272916D",
         "Name": "Aemilia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.1,
@@ -10306,7 +10306,7 @@
     {
         "Id": "CF013227-3EBA-4A4C-84DD-B9F6A7FCDF64",
         "Name": "52 Europa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.101,
@@ -10338,7 +10338,7 @@
     {
         "Id": "033B950E-7D6E-4E38-AB62-6CCDC43AC4A0",
         "Name": "Gudrun",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.109,
@@ -10370,7 +10370,7 @@
     {
         "Id": "4541CA30-E76C-4FA8-AD1B-858979AE9FDD",
         "Name": "Doris",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.11,
@@ -10402,7 +10402,7 @@
     {
         "Id": "B1FC59EF-F888-496E-A67F-275DA0D96F5C",
         "Name": "Philomela",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.112,
@@ -10434,7 +10434,7 @@
     {
         "Id": "12C2649C-CF39-4E10-8E78-B350BBD30CB5",
         "Name": "Medea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.113,
@@ -10466,7 +10466,7 @@
     {
         "Id": "BECC241B-B4A1-4F21-9DEA-DB07C2B7CC70",
         "Name": "Adelheid",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.113,
@@ -10498,7 +10498,7 @@
     {
         "Id": "0FBF75E3-763F-49F6-849E-4BBE8D8EF165",
         "Name": "Semele",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.114,
@@ -10530,7 +10530,7 @@
     {
         "Id": "1D67284C-AB86-4694-9BDC-A056B11D5BFE",
         "Name": "Ornamenta",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.114,
@@ -10562,7 +10562,7 @@
     {
         "Id": "F229F0EE-7728-4B3F-AC45-6035CA894EB7",
         "Name": "Ani",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.115,
@@ -10594,7 +10594,7 @@
     {
         "Id": "E2B559CE-1085-4CCF-B4DC-C5BE85FAB186",
         "Name": "Lachesis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.116,
@@ -10626,7 +10626,7 @@
     {
         "Id": "B19BC82F-D6FF-44D8-87A4-1C40E9BDE51D",
         "Name": "Meliboea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.119,
@@ -10658,7 +10658,7 @@
     {
         "Id": "C53ECF08-C938-4E05-A028-F356F2D3E85B",
         "Name": "Erato",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.122,
@@ -10690,7 +10690,7 @@
     {
         "Id": "93EFE166-11D2-47EC-86C9-B73AFDF1B588",
         "Name": "Ursula",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.125,
@@ -10722,7 +10722,7 @@
     {
         "Id": "0B3D0B9A-E84D-407C-BC8B-3F95DB94AB3E",
         "Name": "Elektra",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.125,
@@ -10754,7 +10754,7 @@
     {
         "Id": "DAE0D94D-0E4D-4359-AE18-E0626B2721BB",
         "Name": "Loreley",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.128,
@@ -10786,7 +10786,7 @@
     {
         "Id": "6F718EF3-54A4-4808-ADD6-2DC9A9CFDB81",
         "Name": "Huenna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.13,
@@ -10818,7 +10818,7 @@
     {
         "Id": "E286D008-32A8-44E2-92D9-D971573CDFF9",
         "Name": "Ophelia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.132,
@@ -10850,7 +10850,7 @@
     {
         "Id": "315C774A-075E-4195-AA3A-7E615B48B17C",
         "Name": "Protogeneia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.134,
@@ -10882,7 +10882,7 @@
     {
         "Id": "9B94C035-54E8-424C-A3FE-4BAFC7F6EAB9",
         "Name": "Hohensteina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.13443,
@@ -10914,7 +10914,7 @@
     {
         "Id": "2AC95161-3F3A-45A1-8988-2027A2FC2208",
         "Name": "Hygiea",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.139,
@@ -10946,7 +10946,7 @@
     {
         "Id": "A6C1FBCC-FA43-43BB-8CA3-9BA908786EAC",
         "Name": "Eucharis",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.14,
@@ -10978,7 +10978,7 @@
     {
         "Id": "99E57282-927B-4428-AB40-1CDEDDC2158C",
         "Name": "Aletheia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.141,
@@ -11010,7 +11010,7 @@
     {
         "Id": "F4A2E8FB-FACF-4851-B364-12E10F3FD3D5",
         "Name": "Wratislavia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.141,
@@ -11042,7 +11042,7 @@
     {
         "Id": "2BFE17A3-278C-4039-96AE-5A6EC93CB6F7",
         "Name": "Palma",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.144,
@@ -11074,7 +11074,7 @@
     {
         "Id": "27480B69-6981-41E9-9C8E-3627416012E9",
         "Name": "Dido",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.148,
@@ -11106,7 +11106,7 @@
     {
         "Id": "FECA548C-B348-4333-99AA-C2F4E9E8B528",
         "Name": "Mnemosyne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.149,
@@ -11138,7 +11138,7 @@
     {
         "Id": "AD5D1E2B-933D-49EA-A637-912ED1B62458",
         "Name": "Euphrosyne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.15,
@@ -11170,7 +11170,7 @@
     {
         "Id": "3BB88947-BA10-49A2-9B86-3D2BA02DB9E4",
         "Name": "Tauris",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.151,
@@ -11202,7 +11202,7 @@
     {
         "Id": "28990C63-6785-4908-B2F1-A4C9C113F7EB",
         "Name": "Philosophia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.152,
@@ -11234,7 +11234,7 @@
     {
         "Id": "BE36D59C-A1F7-4CED-8B7C-33E1DF305DA8",
         "Name": "Klymene",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.153,
@@ -11266,7 +11266,7 @@
     {
         "Id": "469552DC-F303-4AB9-A648-AC9365D63366",
         "Name": "Ninina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.153,
@@ -11298,7 +11298,7 @@
     {
         "Id": "ED0B830E-EC7F-4FA7-BA7E-A7E8A2F5A15E",
         "Name": "Comacina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.154,
@@ -11330,7 +11330,7 @@
     {
         "Id": "60001C4E-FA4E-4188-AB87-CC90318A2021",
         "Name": "Pulcova",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.1543,
@@ -11362,7 +11362,7 @@
     {
         "Id": "FA1B4B2E-D015-4652-804A-6F852CA4A373",
         "Name": "Antiope",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.155,
@@ -11394,7 +11394,7 @@
     {
         "Id": "56D6FD61-8E9C-4FA1-AEE7-7B7159955B34",
         "Name": "Beethoven",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.15689,
@@ -11426,7 +11426,7 @@
     {
         "Id": "EC301512-0B88-4D95-8F49-F0198553421F",
         "Name": "Aurora",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.159,
@@ -11458,7 +11458,7 @@
     {
         "Id": "C3D035BD-B29C-4578-ACE1-3D7D60B0A8E6",
         "Name": "Princetonia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.159,
@@ -11490,7 +11490,7 @@
     {
         "Id": "26A91ADC-8811-47C1-8FCB-15FCC8309D8C",
         "Name": "Davida",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.1647,
@@ -11522,7 +11522,7 @@
     {
         "Id": "C4637698-E83D-450F-8774-62356CCE1823",
         "Name": "Argentina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.1661,
@@ -11554,7 +11554,7 @@
     {
         "Id": "0B9724BD-1399-4F75-974B-31911F8DA1E0",
         "Name": "106 Dione",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.168,
@@ -11586,7 +11586,7 @@
     {
         "Id": "BB798603-0350-4A36-A59A-1960E31135BE",
         "Name": "Veritas",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.17,
@@ -11618,7 +11618,7 @@
     {
         "Id": "F402FC71-153B-45E8-AC22-49DA53579B26",
         "Name": "Elfriede",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.186,
@@ -11650,7 +11650,7 @@
     {
         "Id": "52A1541D-DBF1-4575-A4AC-6897F9711452",
         "Name": "Andromache",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.186,
@@ -11682,7 +11682,7 @@
     {
         "Id": "51FE28D1-E050-4CBD-9E25-8641847DC1E9",
         "Name": "Undina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.19,
@@ -11714,7 +11714,7 @@
     {
         "Id": "A48E3020-0DDF-4B17-98EE-5F701308A02A",
         "Name": "Alauda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.1926,
@@ -11746,7 +11746,7 @@
     {
         "Id": "2D922AAB-D435-47C0-BE6B-D2DA215D396B",
         "Name": "Iduna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.196,
@@ -11778,7 +11778,7 @@
     {
         "Id": "BEDD362C-A69A-44C8-B871-C968BAB04F9D",
         "Name": "Helio",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.201,
@@ -11810,7 +11810,7 @@
     {
         "Id": "94380058-0F3D-4BD4-BEF0-08DCFC6BC70B",
         "Name": "Messalina",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.201,
@@ -11842,7 +11842,7 @@
     {
         "Id": "D3D77FA9-F8B1-41C1-A795-7F89CA95CD83",
         "Name": "Gaussia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.204,
@@ -11874,7 +11874,7 @@
     {
         "Id": "01E89135-9F20-4006-834C-729A849289FE",
         "Name": "Polyxena",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.209,
@@ -11906,7 +11906,7 @@
     {
         "Id": "2607DB4F-005C-487F-8BF5-AD81AB6EBB3E",
         "Name": "Myrrha",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.219,
@@ -11938,7 +11938,7 @@
     {
         "Id": "16F580F4-E948-4DBF-903A-E9CC7F1AE7A8",
         "Name": "Gerda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.222,
@@ -11970,7 +11970,7 @@
     {
         "Id": "06D5695F-C3D1-4EF6-8EBF-420CCE01B505",
         "Name": "Prokne",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.236,
@@ -12002,7 +12002,7 @@
     {
         "Id": "BFB326B4-5A0A-471C-8302-A0F24011F2BB",
         "Name": "Hecuba",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.241,
@@ -12034,7 +12034,7 @@
     {
         "Id": "4852A50D-CF52-4625-8FC7-D94A7E20EB93",
         "Name": "Ottilia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.35,
@@ -12066,7 +12066,7 @@
     {
         "Id": "8687C286-A431-4930-BAC3-CFCD2F63C1DC",
         "Name": "Tisiphone",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.3649,
@@ -12098,7 +12098,7 @@
     {
         "Id": "E2F45A64-3C3A-4900-B7FF-BF61A7592776",
         "Name": "Sibylla",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.377,
@@ -12130,7 +12130,7 @@
     {
         "Id": "C100816B-1E7B-44EF-BCA1-6B28DD7F47FA",
         "Name": "Stereoskopia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.382,
@@ -12162,7 +12162,7 @@
     {
         "Id": "9360BD9C-1BC7-47EF-8017-29E3CA6ABF67",
         "Name": "Henrietta",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.382,
@@ -12194,7 +12194,7 @@
     {
         "Id": "F871728A-8A0C-4EF3-91E9-153CEAC30FD2",
         "Name": "Luscinia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.386,
@@ -12226,7 +12226,7 @@
     {
         "Id": "C516AC5F-3237-46E4-BE3B-AF199416E30B",
         "Name": "Pretoria",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.409,
@@ -12258,7 +12258,7 @@
     {
         "Id": "CD5BA9AE-5D4E-4FE2-A43E-95322E8278D2",
         "Name": "Adelinda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.413,
@@ -12290,7 +12290,7 @@
     {
         "Id": "1ACF8FA6-8BD9-4925-AC92-E16DA29080FA",
         "Name": "Freia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.418,
@@ -12322,7 +12322,7 @@
     {
         "Id": "CBC1D814-0EFC-40C4-8487-A7BC4726E01F",
         "Name": "Kythera",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.422,
@@ -12354,7 +12354,7 @@
     {
         "Id": "F3ED19DB-D28A-4B92-A140-B7E661729C23",
         "Name": "Bertholda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.43,
@@ -12386,7 +12386,7 @@
     {
         "Id": "35C55876-6BF9-4ECA-8247-3277D8AB0EF5",
         "Name": "Cybele",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.433,
@@ -12418,7 +12418,7 @@
     {
         "Id": "7FCD9986-C8AE-4918-92C0-D144DE0AEFE1",
         "Name": "Abastumani",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.43505,
@@ -12450,7 +12450,7 @@
     {
         "Id": "148A0ABC-F9E8-4698-89B8-077A7C76452D",
         "Name": "Hermione",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.457,
@@ -12482,7 +12482,7 @@
     {
         "Id": "64B46D86-1FDD-4BAE-89C3-5785AACB935A",
         "Name": "Camilla",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.477,
@@ -12514,7 +12514,7 @@
     {
         "Id": "9BA39172-885D-4EC5-AA35-F324ED0736FB",
         "Name": "Sylvia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.49,
@@ -12546,7 +12546,7 @@
     {
         "Id": "58FFA7D4-92D0-4CB5-9B61-C4C13CEC4FFF",
         "Name": "Merapi",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.5,
@@ -12578,7 +12578,7 @@
     {
         "Id": "411456C3-2900-45D9-9C96-97B21B6A58BB",
         "Name": "Ulla",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.539,
@@ -12610,7 +12610,7 @@
     {
         "Id": "BB5BB434-37E4-4740-A670-19395D4B8A94",
         "Name": "Helga",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.632,
@@ -12642,7 +12642,7 @@
     {
         "Id": "53FA7711-0202-4F81-B272-1CA1D785BF84",
         "Name": "Vibilia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.654,
@@ -12674,7 +12674,7 @@
     {
         "Id": "D6A4FB08-3B44-4CE5-BDCC-5C9C61769014",
         "Name": "Leto",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.783,
@@ -12706,7 +12706,7 @@
     {
         "Id": "63476983-C290-4401-BA5B-84C01C332551",
         "Name": "Rollandia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.896,
@@ -12738,7 +12738,7 @@
     {
         "Id": "BED2D60A-65AD-4307-906F-359718794FD7",
         "Name": "Chicago",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.898,
@@ -12770,7 +12770,7 @@
     {
         "Id": "879E1366-3199-4B1E-B98F-FA030A40A00B",
         "Name": "Bononia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.954,
@@ -12802,7 +12802,7 @@
     {
         "Id": "4FB076D5-4427-48A6-B1F7-C51156A93D99",
         "Name": "Hilda",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 3.973,
@@ -12834,7 +12834,7 @@
     {
         "Id": "F47CDB5E-15F4-4009-9D37-E3BD41F48C41",
         "Name": "Thule",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 4.27,
@@ -12866,7 +12866,7 @@
     {
         "Id": "11D109A9-BAEC-47B4-AB97-FCCE9BD0CAFF",
         "Name": "Teucer",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.106,
@@ -12898,7 +12898,7 @@
     {
         "Id": "D8B8D675-200E-4C9A-B46C-AFD13033A0C8",
         "Name": "Antilochus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.109,
@@ -12930,7 +12930,7 @@
     {
         "Id": "D896D698-722F-4EAE-A0BC-8163A582BE63",
         "Name": "Automedon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.112,
@@ -12962,7 +12962,7 @@
     {
         "Id": "79CE51C1-4662-469D-BFF4-2B113BCD394C",
         "Name": "Deiphobus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.125,
@@ -12994,7 +12994,7 @@
     {
         "Id": "496219A7-FD8E-4BC6-B7A1-56F30F323891",
         "Name": "Palamedes",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.135,
@@ -13026,7 +13026,7 @@
     {
         "Id": "ABED988E-58AF-4E50-8449-7FEEE935AEEE",
         "Name": "Meriones",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.1452,
@@ -13058,7 +13058,7 @@
     {
         "Id": "9D190191-3800-4C62-A181-2A5FF8EBCB43",
         "Name": "Eurybates",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.163,
@@ -13090,7 +13090,7 @@
     {
         "Id": "ABA1A916-FE99-4FD1-AA0C-5286A6B3461A",
         "Name": "Diomedes",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.164,
@@ -13122,7 +13122,7 @@
     {
         "Id": "6D523E05-50FC-4F6F-BCB9-2DA4BC7E15BC",
         "Name": "Telamon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.17,
@@ -13154,7 +13154,7 @@
     {
         "Id": "6D7E19A6-49C8-4AC6-AA88-524BB1C9B672",
         "Name": "Euforbo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.17005,
@@ -13186,7 +13186,7 @@
     {
         "Id": "8DD6E31A-1131-4B54-B3D6-6480FCBCD6E3",
         "Name": "Idomeneus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.173,
@@ -13218,7 +13218,7 @@
     {
         "Id": "1305FDEA-0CBA-4F1C-B119-BFDC1B58DE07",
         "Name": "Cebriones",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.17594,
@@ -13250,7 +13250,7 @@
     {
         "Id": "A9CD4D0A-FFB2-4448-958D-306B86C1AFAE",
         "Name": "Pandarus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.1838,
@@ -13282,7 +13282,7 @@
     {
         "Id": "5253D7DA-7F28-45AE-9445-BFE5D9E3D687",
         "Name": "Makhaon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.188,
@@ -13314,7 +13314,7 @@
     {
         "Id": "4DD488EA-C28B-4642-BE3A-28DF9DBFB991",
         "Name": "Neoptolemus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.19,
@@ -13346,7 +13346,7 @@
     {
         "Id": "84F452D5-6C2E-488D-B1E6-4CECF16EF46B",
         "Name": "Achilles",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.192,
@@ -13378,7 +13378,7 @@
     {
         "Id": "9D465C0C-288D-4A01-8FDD-3C4293DA466E",
         "Name": "Hiera",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.19295,
@@ -13410,7 +13410,7 @@
     {
         "Id": "A9F86BA6-584F-4A9A-86FC-DEDD2E51D5DD",
         "Name": "Nestor",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.198,
@@ -13442,7 +13442,7 @@
     {
         "Id": "DBD3413E-2D1B-4299-AB42-2EA3437749BE",
         "Name": "Alcathous",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.20261,
@@ -13474,7 +13474,7 @@
     {
         "Id": "12666820-15F6-452F-A183-85DDC857B379",
         "Name": "Aneas",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2069,
@@ -13506,7 +13506,7 @@
     {
         "Id": "DE69B024-E557-44A0-AED6-A0B59B435E0C",
         "Name": "Phereclos",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2075,
@@ -13538,7 +13538,7 @@
     {
         "Id": "E6D44EC4-FA18-48BC-B459-226945422D78",
         "Name": "Paris",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2114,
@@ -13570,7 +13570,7 @@
     {
         "Id": "E85AAFD5-9EAF-4D6B-801D-70624BF9F286",
         "Name": "Agamemnon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.214,
@@ -13602,7 +13602,7 @@
     {
         "Id": "EF52E1E6-0E56-4C34-8FE9-59B13B1AD2E3",
         "Name": "Patroclus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.218,
@@ -13634,7 +13634,7 @@
     {
         "Id": "A4E4E499-337F-4112-A690-B08F66D6AE1E",
         "Name": "Hektor",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.222,
@@ -13666,7 +13666,7 @@
     {
         "Id": "F32065FE-ECE8-400A-A4E8-D4F43CE67A88",
         "Name": "Sarpedon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2234,
@@ -13698,7 +13698,7 @@
     {
         "Id": "383C839D-3C86-4C72-A289-F16F11EF2921",
         "Name": "Ennomos",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2253,
@@ -13730,7 +13730,7 @@
     {
         "Id": "B1FB7C1B-A491-4A65-9A92-84F5BF7B786B",
         "Name": "Panthoos",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2255,
@@ -13762,7 +13762,7 @@
     {
         "Id": "BD728516-2DBC-4253-980A-627FE1B1F675",
         "Name": "Talthybius",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.227,
@@ -13794,7 +13794,7 @@
     {
         "Id": "72DF4CAD-C07A-44B4-AD89-01FA0F6A4CAB",
         "Name": "Menelaus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.232,
@@ -13826,7 +13826,7 @@
     {
         "Id": "3A9DC2D3-5EA1-4E0A-9CA3-6F259984CE8A",
         "Name": "Troilus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2407,
@@ -13858,7 +13858,7 @@
     {
         "Id": "2B72D767-7737-4E68-B480-0E5AB7626CCC",
         "Name": "Poulydamas",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2444,
@@ -13890,7 +13890,7 @@
     {
         "Id": "39CE1863-27B0-4003-B87F-C1F0B346030B",
         "Name": "Odysseus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.2512,
@@ -13922,7 +13922,7 @@
     {
         "Id": "291C459B-81E1-4F18-BAED-225FAC8D9F0B",
         "Name": "Polypoites",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.26,
@@ -13954,7 +13954,7 @@
     {
         "Id": "1E4D208B-2463-4B51-B897-F96093BA5380",
         "Name": "1986 WD",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.28068,
@@ -13986,7 +13986,7 @@
     {
         "Id": "A8ECD286-887E-4CDF-A257-B50BB8E35A24",
         "Name": "Ajax",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.302,
@@ -14018,7 +14018,7 @@
     {
         "Id": "F4C9E3DF-D453-420F-95A6-94910354E5AD",
         "Name": "Anchises",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.3067,
@@ -14050,7 +14050,7 @@
     {
         "Id": "8FAE9F2A-BEDB-406A-8959-35D4A20A5D39",
         "Name": "Hidalgo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 5.745,
@@ -14082,7 +14082,7 @@
     {
         "Id": "5D885564-BB68-4569-974A-7AA3DBFDA2C4",
         "Name": "Okyrhoe",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 8.366,
@@ -14114,7 +14114,7 @@
     {
         "Id": "A3EF36F3-6E2F-46BA-ADFE-DF8C157D1F6E",
         "Name": "Elatus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 11.7599,
@@ -14146,7 +14146,7 @@
     {
         "Id": "9F9E41BD-EE72-446E-B644-2EB44B25C310",
         "Name": "Chiron",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 13.708,
@@ -14178,7 +14178,7 @@
     {
         "Id": "5610C825-6143-4B21-9162-5A7AE429BA0B",
         "Name": "Chariklo",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 15.87,
@@ -14210,7 +14210,7 @@
     {
         "Id": "90BAB828-5FD7-4CD7-ACE2-52B3467E1B05",
         "Name": "Bienor",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 16.472,
@@ -14242,7 +14242,7 @@
     {
         "Id": "AB2BB67E-6563-4B1D-BEDF-DE4D2F16C656",
         "Name": "Asbolus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 18.07,
@@ -14274,7 +14274,7 @@
     {
         "Id": "7A9198C7-EF2F-46B7-9037-DF679FF2EB8C",
         "Name": "Crantor",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 19.385,
@@ -14306,7 +14306,7 @@
     {
         "Id": "B03763A9-8302-4BEB-AAE3-34C7ED033D5A",
         "Name": "Pholus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 20.356,
@@ -14338,7 +14338,7 @@
     {
         "Id": "48754CBB-D786-40A5-9502-1E20B4140595",
         "Name": "Dioretsa",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 23.823,
@@ -14370,7 +14370,7 @@
     {
         "Id": "E202EA0C-2FEF-4222-8941-394C63D7C383",
         "Name": "Nessus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 24.655,
@@ -14402,7 +14402,7 @@
     {
         "Id": "4F509424-E8B7-4DE6-BBD7-E67D050C09BA",
         "Name": "Hylonome",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 25.132,
@@ -14434,7 +14434,7 @@
     {
         "Id": "CBAAE8A5-6866-4217-8C76-008791FEA31F",
         "Name": "Amycus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 25.149,
@@ -14466,7 +14466,7 @@
     {
         "Id": "E7D6A9D5-3672-456C-B3E2-2005A6A0F2CF",
         "Name": "Cyllarus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 26.1012,
@@ -14498,7 +14498,7 @@
     {
         "Id": "7C0D5612-D7F4-42E9-BE2F-5B0CAB36868E",
         "Name": "1996 TP66",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 27,
@@ -14530,7 +14530,7 @@
     {
         "Id": "F652BBC1-61A3-49E6-A05A-C44B5103559C",
         "Name": "Huya",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 28.7,
@@ -14562,7 +14562,7 @@
     {
         "Id": "1B16A2D2-8887-42F6-83E8-770D9787B3BB",
         "Name": "2008 LC18",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 29.91,
@@ -14594,7 +14594,7 @@
     {
         "Id": "94FAD32F-9130-4C67-A6B8-C2D7A5ABD855",
         "Name": "2004 KV18",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.1,
@@ -14626,7 +14626,7 @@
     {
         "Id": "974B063D-FB4C-4F46-B58E-8FDEE160215D",
         "Name": "2006 RJ103",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.195,
@@ -14658,7 +14658,7 @@
     {
         "Id": "56355829-0598-4B46-A235-1BD422545744",
         "Name": "2007 VL305",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.2,
@@ -14690,7 +14690,7 @@
     {
         "Id": "6D0F0F87-816D-4AF1-AE67-41F4A066E4F2",
         "Name": "2005 TO74",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.28,
@@ -14722,7 +14722,7 @@
     {
         "Id": "366EF55D-F300-40CE-A17D-45DE41A3E597",
         "Name": "2005 TN53",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.28,
@@ -14754,7 +14754,7 @@
     {
         "Id": "8CA55F6A-C368-4B8B-89A8-82D6C1111993",
         "Name": "2004 UP10",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.32,
@@ -14786,7 +14786,7 @@
     {
         "Id": "0AF7083A-7C2C-4A00-8957-97A274B34834",
         "Name": "2001 QR322",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 30.397,
@@ -14818,7 +14818,7 @@
     {
         "Id": "4FAFD8BD-D703-4CB1-9857-CE63337A640A",
         "Name": "1999 OX3",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 32.407,
@@ -14850,7 +14850,7 @@
     {
         "Id": "4C07A7E8-52CA-4DCE-99EA-60358F4AF6FD",
         "Name": "2008 KV42",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 33.5,
@@ -14882,7 +14882,7 @@
     {
         "Id": "DDE7DEAA-B7C5-46C0-9115-A82FE262251A",
         "Name": "2000 OO67",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 33.68,
@@ -14914,7 +14914,7 @@
     {
         "Id": "64B8E480-43B7-43E0-A66D-461245EDDB65",
         "Name": "2001 XH255",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 34.81,
@@ -14946,7 +14946,7 @@
     {
         "Id": "DFCC7CF3-4FB4-4FF1-8543-DDCBF5371924",
         "Name": "1996 TL66",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 35,
@@ -14978,7 +14978,7 @@
     {
         "Id": "436DCC2C-ECB9-45FF-BCD6-B69327287841",
         "Name": "1999 CP133",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 35.006,
@@ -15010,7 +15010,7 @@
     {
         "Id": "D974A45C-83F6-4EB6-84DF-1CF1513CAF40",
         "Name": "2004 PB112",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 35.5,
@@ -15042,7 +15042,7 @@
     {
         "Id": "7FC8DB10-B36A-4D73-9368-CB209163499F",
         "Name": "2004 XA192",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 35.8,
@@ -15074,7 +15074,7 @@
     {
         "Id": "6445BDA7-40FE-42F9-9C7C-1E2FB8737984",
         "Name": "1995 DA2",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 36.421,
@@ -15106,7 +15106,7 @@
     {
         "Id": "283BD494-54D9-4C11-9E23-FDC7375FBFF3",
         "Name": "2006 SQ372",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 36.8,
@@ -15138,7 +15138,7 @@
     {
         "Id": "B6498952-E487-4817-8B11-5C20AAA95DF9",
         "Name": "1993 RP",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 37.425,
@@ -15170,7 +15170,7 @@
     {
         "Id": "2BDB8E6D-34EB-460D-B5FB-694D45F98420",
         "Name": "1998 SN165",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 37.834,
@@ -15202,7 +15202,7 @@
     {
         "Id": "97EE0F87-FB0C-493B-9671-9D27504B0648",
         "Name": "Typhon",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 38.162,
@@ -15234,7 +15234,7 @@
     {
         "Id": "D4FA8323-9324-4DAB-BCB0-17B091A52D70",
         "Name": "2004 NT33",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 38.2,
@@ -15266,7 +15266,7 @@
     {
         "Id": "FAA2C2AD-4E23-474B-A7DB-014C39DE5744",
         "Name": "2002 KX14",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.024,
@@ -15298,7 +15298,7 @@
     {
         "Id": "D892C298-28C8-47B1-9082-D2C9858F201B",
         "Name": "1993 RO",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.045,
@@ -15330,7 +15330,7 @@
     {
         "Id": "1127D165-DB94-4238-9981-B987BD7E14D2",
         "Name": "1998 WU31",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.077,
@@ -15362,7 +15362,7 @@
     {
         "Id": "6E4FAA05-840F-4F9B-8504-8943D5E9D1BC",
         "Name": "1998 VG44",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.083,
@@ -15394,7 +15394,7 @@
     {
         "Id": "020D1500-7043-43CD-9ACB-24E6FC242D75",
         "Name": "2010 EK139",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.1,
@@ -15426,7 +15426,7 @@
     {
         "Id": "32BE7B5D-99C9-45E8-B182-ADE135EC8576",
         "Name": "1998 US43",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.111,
@@ -15458,7 +15458,7 @@
     {
         "Id": "A11D3829-6052-4C11-BA9A-C4FF8D1DB434",
         "Name": "1993 SB",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.146,
@@ -15490,7 +15490,7 @@
     {
         "Id": "65BC33FD-E0F2-438B-80B3-BBB4AC1E07BD",
         "Name": "Rhadamanthus",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.155,
@@ -15522,7 +15522,7 @@
     {
         "Id": "75B35BD3-E85A-4D25-809A-F38D97A22E84",
         "Name": "2003 UZ413",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.2,
@@ -15554,7 +15554,7 @@
     {
         "Id": "338AFF36-7747-4FE8-B0E1-C71936D6989B",
         "Name": "2004 UX10",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.203,
@@ -15586,7 +15586,7 @@
     {
         "Id": "675D834E-5E5D-4740-9592-A102807460BA",
         "Name": "1997 QJ4",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.251,
@@ -15618,7 +15618,7 @@
     {
         "Id": "ABDE3528-4B75-4A23-BDD2-D3BA5D7767DB",
         "Name": "1999 TC36",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.256,
@@ -15650,7 +15650,7 @@
     {
         "Id": "A0A65D5B-0078-43B7-BABF-A8ABC2557AFA",
         "Name": "1996 TQ66",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.257,
@@ -15682,7 +15682,7 @@
     {
         "Id": "396AF070-AE79-4F74-985E-0AF577D71ABE",
         "Name": "2003 VS2",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.266,
@@ -15714,7 +15714,7 @@
     {
         "Id": "528B5161-5BB5-4DE1-9932-1AE79E10EC7C",
         "Name": "1998 WW24",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.274,
@@ -15746,7 +15746,7 @@
     {
         "Id": "BFF52325-B160-46B0-B88A-912995428BFD",
         "Name": "2002 VR128",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.299,
@@ -15778,7 +15778,7 @@
     {
         "Id": "7159633E-698C-4DC3-8BFA-F6EDA4B1BA38",
         "Name": "1994 TB",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.314,
@@ -15810,7 +15810,7 @@
     {
         "Id": "455283E2-0111-4688-9D2D-75AFA44878EE",
         "Name": "1995 QZ9",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.314,
@@ -15842,7 +15842,7 @@
     {
         "Id": "1853B250-8801-4A50-A3F9-859E8D8B5103",
         "Name": "2001 QF298",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.328,
@@ -15874,7 +15874,7 @@
     {
         "Id": "20E0BD60-935D-41A3-A8D7-DE94ED125AF2",
         "Name": "2002 XV93",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.33,
@@ -15906,7 +15906,7 @@
     {
         "Id": "E3B91A53-5662-457E-8F17-4CF985EC156B",
         "Name": "1993 SC",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.398,
@@ -15938,7 +15938,7 @@
     {
         "Id": "B1268137-B4EC-46CF-BE09-8A0ED796B106",
         "Name": "1996 SZ4",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.411,
@@ -15970,7 +15970,7 @@
     {
         "Id": "7D5F78C7-D854-4089-8A63-225DEFF80512",
         "Name": "2004 EW95",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.428,
@@ -16002,7 +16002,7 @@
     {
         "Id": "BBF63D14-A421-49E1-84C2-4FB637C1B2D4",
         "Name": "2002 VE95",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.44,
@@ -16034,7 +16034,7 @@
     {
         "Id": "EBD291E3-5145-4935-B2F0-0A1785D1FF78",
         "Name": "2004 TY364",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.5,
@@ -16066,7 +16066,7 @@
     {
         "Id": "537102FD-9CBC-4D75-9F42-32BA1F48068F",
         "Name": "Ceto",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.5,
@@ -16098,7 +16098,7 @@
     {
         "Id": "75B6B85B-A417-4424-936B-63404C6168AC",
         "Name": "2007 JH43",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.565,
@@ -16130,7 +16130,7 @@
     {
         "Id": "B405E711-6928-41A9-9DA7-C7F4215B8E68",
         "Name": "1994 JR1",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.631,
@@ -16162,7 +16162,7 @@
     {
         "Id": "72FD535E-AB03-4F61-BCAD-35FC2E754A20",
         "Name": "Ixion",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.68,
@@ -16194,7 +16194,7 @@
     {
         "Id": "A05834B0-F62B-4685-928F-9229903738F3",
         "Name": "1998 HK151",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 39.691,
@@ -16226,7 +16226,7 @@
     {
         "Id": "BCA08C61-8E3A-45E5-A7C7-C6B77D20A0E1",
         "Name": "2002 UX25",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41,
@@ -16258,7 +16258,7 @@
     {
         "Id": "DA00E108-9AE7-4E70-AF18-9C8F1DF0397B",
         "Name": "1999 CL158",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41.435,
@@ -16290,7 +16290,7 @@
     {
         "Id": "2A1242A6-674F-48F4-A6B3-41C23B719341",
         "Name": "2007 JJ43",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41.5,
@@ -16322,7 +16322,7 @@
     {
         "Id": "173B5323-0203-473E-82CF-8102D1B8E7F1",
         "Name": "2005 RN43",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41.589,
@@ -16354,7 +16354,7 @@
     {
         "Id": "00547494-D307-4295-9EF6-D2816C237B31",
         "Name": "1995 SM55",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41.653,
@@ -16386,7 +16386,7 @@
     {
         "Id": "881F99F1-36F2-41AE-BD42-3A03260716CF",
         "Name": "1996 GQ21",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41.91,
@@ -16418,7 +16418,7 @@
     {
         "Id": "365E4EB5-4407-48E2-A776-7ACB07DA39F2",
         "Name": "Salacia",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 41.9697,
@@ -16450,7 +16450,7 @@
     {
         "Id": "A417A964-1220-4CC1-BAFC-D92A993DE17F",
         "Name": "2001 YH140",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.204,
@@ -16482,7 +16482,7 @@
     {
         "Id": "CFFFFC6A-8017-42DD-81C9-C74E2E437F56",
         "Name": "2004 GV9",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.2369,
@@ -16514,7 +16514,7 @@
     {
         "Id": "4BC47B1A-0B60-4F05-9C51-F6313A3D25EA",
         "Name": "1998 WA25",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.337,
@@ -16546,7 +16546,7 @@
     {
         "Id": "6D1BF230-5219-40FA-9D29-437150C3B49A",
         "Name": "2005 TN74",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.4,
@@ -16578,7 +16578,7 @@
     {
         "Id": "EA700548-E8E0-4F0D-81AE-23F18AA47853",
         "Name": "1994 JS",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.524,
@@ -16610,7 +16610,7 @@
     {
         "Id": "65CEF313-EC48-4826-95F6-EAC279165AD4",
         "Name": "1994 VK8",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.646,
@@ -16642,7 +16642,7 @@
     {
         "Id": "EFD574AD-706E-4587-84C0-BDC98D3D34FD",
         "Name": "Varuna",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 42.904,
@@ -16674,7 +16674,7 @@
     {
         "Id": "8A0E6113-D74D-47A2-AB2B-69CDCFA3BC8D",
         "Name": "2003 LA7",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43,
@@ -16706,7 +16706,7 @@
     {
         "Id": "B7C75586-D93D-43F7-B346-27BC355CBE06",
         "Name": "2005 RR43",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.073,
@@ -16738,7 +16738,7 @@
     {
         "Id": "8A353BBE-E4FB-4F2D-9CB3-651A48D72516",
         "Name": "1996 TO66",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.212,
@@ -16770,7 +16770,7 @@
     {
         "Id": "F84D3408-20E9-4274-87CB-F2B9110543BA",
         "Name": "2003 OP32",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.282,
@@ -16802,7 +16802,7 @@
     {
         "Id": "FE87452F-3ADC-4981-BDBF-3AFCEB3C5F80",
         "Name": "2005 UQ513",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.31,
@@ -16834,7 +16834,7 @@
     {
         "Id": "95AB709B-7424-4D28-B29B-82E5FFF2220F",
         "Name": "1997 CU29",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.426,
@@ -16866,7 +16866,7 @@
     {
         "Id": "8A46F04D-C035-499C-BFE1-56CAB2D4C9E9",
         "Name": "2002 TX300",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.53,
@@ -16898,7 +16898,7 @@
     {
         "Id": "E0DFEB52-4271-4D0A-B1BA-CBC69A9CC2E6",
         "Name": "1998 HJ151",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.614,
@@ -16930,7 +16930,7 @@
     {
         "Id": "5C76E47C-F538-4451-B580-7E4378888609",
         "Name": "1998 KR65",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.622,
@@ -16962,7 +16962,7 @@
     {
         "Id": "3136F42D-18B2-4527-9640-89928D51B66D",
         "Name": "2003 QW90",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.681,
@@ -16994,7 +16994,7 @@
     {
         "Id": "0ADAB877-BC2E-418F-B891-C10F8D30CF7E",
         "Name": "1992 QB1",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.7339,
@@ -17026,7 +17026,7 @@
     {
         "Id": "B3B24CCE-E2D2-4F85-82A7-1BF0CC0EBC58",
         "Name": "Sila-Nunam",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.939,
@@ -17058,7 +17058,7 @@
     {
         "Id": "2249955E-2E6D-448E-9284-490F0FF0893D",
         "Name": "1994 GV9",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 43.971,
@@ -17090,7 +17090,7 @@
     {
         "Id": "AEE5F466-0B3A-456C-A00C-249CDD137EE8",
         "Name": "1999 OY3",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.002,
@@ -17122,7 +17122,7 @@
     {
         "Id": "C396372A-432A-4A42-AEAC-7DB5D0D1DC47",
         "Name": "1999 HT11",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.044,
@@ -17154,7 +17154,7 @@
     {
         "Id": "D504DA9D-EAFB-4657-9640-CB142C7148D0",
         "Name": "Borasisi",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.073,
@@ -17186,7 +17186,7 @@
     {
         "Id": "5DC646B1-56B0-481F-8935-5B464B9DF150",
         "Name": "Teharonhiawako",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.089,
@@ -17218,7 +17218,7 @@
     {
         "Id": "2D84F5E9-B6DE-4BC5-8C4B-FEE8A9FDD6B3",
         "Name": "1998 HP151",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.297,
@@ -17250,7 +17250,7 @@
     {
         "Id": "A4601263-EAAC-4667-8915-112946A59B0F",
         "Name": "Ducalion",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.368,
@@ -17282,7 +17282,7 @@
     {
         "Id": "0ABED543-5820-4102-9613-06CAD60081D0",
         "Name": "1994 JQ1",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.38,
@@ -17314,7 +17314,7 @@
     {
         "Id": "5264B5AA-AE17-4150-BB0E-0A03E9F2E6CD",
         "Name": "Altjira",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.474,
@@ -17346,7 +17346,7 @@
     {
         "Id": "B61FAE40-C004-40DF-8AE2-8FB4BCF0DE89",
         "Name": "1998 WW31-1",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.489,
@@ -17378,7 +17378,7 @@
     {
         "Id": "0725C9F5-9B77-427D-9AF6-15CEDB97279E",
         "Name": "1998 WW31",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.489,
@@ -17410,7 +17410,7 @@
     {
         "Id": "B2A71A45-D840-4920-9C50-1269E60C46CE",
         "Name": "1998 HM151",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 44.701,
@@ -17442,7 +17442,7 @@
     {
         "Id": "42FC3928-A7CF-4636-922C-46AE3EEF8C86",
         "Name": "2007 UK126",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 45,
@@ -17474,7 +17474,7 @@
     {
         "Id": "776830A1-193D-4639-9FD2-A231C7A9A0D5",
         "Name": "2001 KU76",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 45.193,
@@ -17506,7 +17506,7 @@
     {
         "Id": "9D727015-2925-49C0-BE56-E305C2A8CF26",
         "Name": "2003 AZ84",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 45.3,
@@ -17538,7 +17538,7 @@
     {
         "Id": "8161D054-B724-4027-9491-84D448C2C7C1",
         "Name": "Chaos",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 45.599,
@@ -17570,7 +17570,7 @@
     {
         "Id": "22B95E88-AF57-461B-985D-8BF608F03CD4",
         "Name": "1999 HC12",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 45.614,
@@ -17602,7 +17602,7 @@
     {
         "Id": "01CE3E82-8B7D-4423-A3F9-E9CBDEB12531",
         "Name": "2003 MW12",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 45.953,
@@ -17634,7 +17634,7 @@
     {
         "Id": "409AE3C3-F233-4C06-8A6D-9061FBE9F909",
         "Name": "2010 KZ39",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 46.3,
@@ -17666,7 +17666,7 @@
     {
         "Id": "199CEC84-4052-4FE9-8876-468828AE855E",
         "Name": "1999 DF9",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 46.531,
@@ -17698,7 +17698,7 @@
     {
         "Id": "B4828E35-C988-41E3-B780-39874DC1F8F1",
         "Name": "1997 CR29",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 46.998,
@@ -17730,7 +17730,7 @@
     {
         "Id": "60325010-6D7E-45C9-82A9-CC7987D033F3",
         "Name": "2002 MS4",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.2,
@@ -17762,7 +17762,7 @@
     {
         "Id": "5C86F635-3681-489E-97E1-0B15AE33FE9B",
         "Name": "2005 TB190",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.2,
@@ -17794,7 +17794,7 @@
     {
         "Id": "2C164D58-2079-4F80-A96F-6FF5E435F2D4",
         "Name": "2002 AW197",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.284,
@@ -17826,7 +17826,7 @@
     {
         "Id": "1869EBBB-DC19-4A96-ABEA-4A1EAF3C94EC",
         "Name": "1999 CD158",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.3,
@@ -17858,7 +17858,7 @@
     {
         "Id": "1DE60D14-F861-4580-9098-2F4F498777BA",
         "Name": "1999 RB216",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.42,
@@ -17890,7 +17890,7 @@
     {
         "Id": "A7E296CB-6157-471C-A68D-A3F880FE77E7",
         "Name": "1998 SM165",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.528,
@@ -17922,7 +17922,7 @@
     {
         "Id": "296DB966-940E-4799-9B2D-987F879E00B8",
         "Name": "2002 WC19",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.657,
@@ -17954,7 +17954,7 @@
     {
         "Id": "016DAA37-682D-46E9-8781-B88A7B47A03E",
         "Name": "1997 SZ10",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.726,
@@ -17986,7 +17986,7 @@
     {
         "Id": "660E8153-DE71-4E47-842B-A99A168A7FFF",
         "Name": "1996 TR66",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.781,
@@ -18018,7 +18018,7 @@
     {
         "Id": "219E4258-B0C4-4B23-ADAA-9BB35047CF3D",
         "Name": "2000 JG81",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 47.859,
@@ -18050,7 +18050,7 @@
     {
         "Id": "63F03E5F-02ED-4FC0-B46E-168D1B84BF8E",
         "Name": "2005 QU182",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 49,
@@ -18082,7 +18082,7 @@
     {
         "Id": "F1E3D7E4-4328-4495-99A5-47109F02DDA6",
         "Name": "1999 KR16",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 49.244,
@@ -18114,7 +18114,7 @@
     {
         "Id": "03089FDF-4EB1-499B-8A1F-26B83950B741",
         "Name": "2003 FY128",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 49.4,
@@ -18146,7 +18146,7 @@
     {
         "Id": "E6B103D6-E5B8-4683-BF94-9C7A2A5B3E63",
         "Name": "2004 VN112",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 49.5,
@@ -18178,7 +18178,7 @@
     {
         "Id": "29275986-AD7B-4730-B5A9-5B12AF03FC7B",
         "Name": "2000 EE173",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 49.633,
@@ -18210,7 +18210,7 @@
     {
         "Id": "EB35090C-EB06-411A-AB94-DD9D452E7F1C",
         "Name": "2001 UR163",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 51.3,
@@ -18242,7 +18242,7 @@
     {
         "Id": "5E622D21-DA75-45B6-87F0-ACB7AFC51E47",
         "Name": "2000 CR105",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 52.5,
@@ -18274,7 +18274,7 @@
     {
         "Id": "01986126-8492-4BFF-B4C4-6A5E82FB6830",
         "Name": "1995 TL8",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 52.533,
@@ -18306,7 +18306,7 @@
     {
         "Id": "B86F915B-CB72-436A-801D-7F890EC00C5A",
         "Name": "2001 XT254",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 52.634,
@@ -18338,7 +18338,7 @@
     {
         "Id": "22DF197A-D986-45F5-A3EE-352733FF5A43",
         "Name": "1995 GJ",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 52.9072,
@@ -18370,7 +18370,7 @@
     {
         "Id": "821C5897-95C3-413C-9BDD-5BF7037E1967",
         "Name": "2002 GX32",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 53.436,
@@ -18402,7 +18402,7 @@
     {
         "Id": "04969347-36E6-47B3-8E66-6C2E05CB446E",
         "Name": "1999 CC158",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 53.826,
@@ -18434,7 +18434,7 @@
     {
         "Id": "6A5D2C29-AE46-4CA1-A8AD-7D17EAE52BCB",
         "Name": "1999 CP158",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 53.826,
@@ -18466,7 +18466,7 @@
     {
         "Id": "55863938-3BA6-46EC-ABFE-DB550C699DF0",
         "Name": "2002 CY224",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 53.904,
@@ -18498,7 +18498,7 @@
     {
         "Id": "67DF19AD-C648-443F-A410-76301C7C1379",
         "Name": "1998 WA31",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 54.826,
@@ -18530,7 +18530,7 @@
     {
         "Id": "3C7995F6-81B7-4E0E-8063-4B48F3CA9FA9",
         "Name": "2002 TC302",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 55.535,
@@ -18562,7 +18562,7 @@
     {
         "Id": "0ECDE722-C586-4F1B-9AB3-E0E605A34963",
         "Name": "1999 DE9",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 55.655,
@@ -18594,7 +18594,7 @@
     {
         "Id": "EA0F88BE-CA78-43D5-B473-07D16F37F339",
         "Name": "2001 KC77",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 55.709,
@@ -18626,7 +18626,7 @@
     {
         "Id": "9FEB0DDF-3821-4C93-B443-89CC2C6862DC",
         "Name": "2010 RE64",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 55.8,
@@ -18658,7 +18658,7 @@
     {
         "Id": "9E068D48-5975-47C7-BCB7-D66E5598DA94",
         "Name": "2006 HH123",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 56,
@@ -18690,7 +18690,7 @@
     {
         "Id": "72AB9355-855E-4695-860B-3A138337670F",
         "Name": "1999 HB12",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 56.229,
@@ -18722,7 +18722,7 @@
     {
         "Id": "DC03E83E-EA69-4286-82DF-D98B87A68871",
         "Name": "2008 ST291",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 56.8,
@@ -18754,7 +18754,7 @@
     {
         "Id": "B494A3B3-EC81-4E8A-81E1-74161A17DEAB",
         "Name": "2000 YW134",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 57.548,
@@ -18786,7 +18786,7 @@
     {
         "Id": "324C879B-4143-4BF8-9E95-2C021197040E",
         "Name": "2004 XR190",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 57.9,
@@ -18818,7 +18818,7 @@
     {
         "Id": "71DA8793-237D-41E8-ABA0-49D65C319EFC",
         "Name": "2003 QX113",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 59,
@@ -18850,7 +18850,7 @@
     {
         "Id": "D5458F0C-010D-4193-BC6D-51E13D0F78A2",
         "Name": "2003 LG7",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 63.012,
@@ -18882,7 +18882,7 @@
     {
         "Id": "5E281DC5-1314-4947-B0CF-590B5EEC14B2",
         "Name": "2006 QH181",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 82.7,
@@ -18914,7 +18914,7 @@
     {
         "Id": "C5F9CED2-48BA-4B4D-AC77-48C1ABC18D3E",
         "Name": "2007 OR10",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 86.5,
@@ -18946,7 +18946,7 @@
     {
         "Id": "835E85B2-3272-458A-8A15-466F05C4AEE3",
         "Name": "2005 RM43",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 89.817,
@@ -18978,7 +18978,7 @@
     {
         "Id": "F2704AFE-6F69-4945-ABD0-C4698E59511A",
         "Name": "2000 OM67",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 98.492,
@@ -19010,7 +19010,7 @@
     {
         "Id": "F6A83D93-99D6-4548-A916-F21689220E8C",
         "Name": "2009 YE7",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 3,
         "BodyTypeId": 1,
         "OrbitalDistance": 170,
@@ -19042,7 +19042,7 @@
     {
         "Id": "1481B9BE-7CFC-49CC-ACBE-578AC8635F90",
         "Name": "Encke",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 4.11,
@@ -19074,7 +19074,7 @@
     {
         "Id": "10ECA2BA-72B3-410A-ABA3-425F3E73C423",
         "Name": "Tempel 1",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 4.739,
@@ -19106,7 +19106,7 @@
     {
         "Id": "19F3B125-FD5F-4DCB-B5EE-FA8915B9579C",
         "Name": "Whipple",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.241,
@@ -19138,7 +19138,7 @@
     {
         "Id": "C473E220-B726-4D2C-8D87-0F9CE649B27F",
         "Name": "Wild",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.308,
@@ -19170,7 +19170,7 @@
     {
         "Id": "1ABA4580-BAC6-4EF0-94DD-BE59EF113C31",
         "Name": "Wolf-Harrington",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.347,
@@ -19202,7 +19202,7 @@
     {
         "Id": "84095D67-E7AE-44B6-9C4F-013C8B7F45D0",
         "Name": "Reinmuth",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.664,
@@ -19234,7 +19234,7 @@
     {
         "Id": "82B0F6D1-C5D5-42BA-B5EA-ADF6E4BF4B94",
         "Name": "Wolf",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.73,
@@ -19266,7 +19266,7 @@
     {
         "Id": "DE9E9D6C-209B-4D58-8FCB-633E23F7F794",
         "Name": "Borrelly",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.83,
@@ -19298,7 +19298,7 @@
     {
         "Id": "AEC55467-5795-4323-8BDF-2795A13850FF",
         "Name": "Machholz",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 5.9079,
@@ -19330,7 +19330,7 @@
     {
         "Id": "AE84BDFF-A9A4-4A4C-9A4C-8B254D9C4D7A",
         "Name": "Faye",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 6.026,
@@ -19362,7 +19362,7 @@
     {
         "Id": "95A68C0D-9DFD-4CA1-AB79-7A5564AB7A60",
         "Name": "Comas Sola",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 6.692,
@@ -19394,7 +19394,7 @@
     {
         "Id": "F43C54B0-9F8A-4464-BEB6-8ECCCBA5DB38",
         "Name": "Schaumasse",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 6.95,
@@ -19426,7 +19426,7 @@
     {
         "Id": "1E95A09A-20B0-42C0-8F9A-8214C91C3209",
         "Name": "Van Biesbroeck",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 8.375,
@@ -19458,7 +19458,7 @@
     {
         "Id": "E75C6167-D107-41C8-ADEB-ED04B47F248F",
         "Name": "Chernykh",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 9.224,
@@ -19490,7 +19490,7 @@
     {
         "Id": "F6B5ADD0-A6AC-4513-A7D8-B2F02D43B91D",
         "Name": "Neujmin",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 12.27,
@@ -19522,7 +19522,7 @@
     {
         "Id": "BFB5873F-1A1A-41D2-9491-ECA1CD9003FE",
         "Name": "Crommelin",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 17.66,
@@ -19554,7 +19554,7 @@
     {
         "Id": "3810900F-F096-47EA-91B6-6EE0EC5A92E8",
         "Name": "Tempel-Tuttle",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 19.6924,
@@ -19586,7 +19586,7 @@
     {
         "Id": "643D0AF0-22B2-43BF-9F8E-8ED7FB49B4D5",
         "Name": "Stephan-Oterma",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 20.92,
@@ -19618,7 +19618,7 @@
     {
         "Id": "DB04D3AA-E275-4359-8214-146003E5FAA6",
         "Name": "Halleys Comet",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 35.1,
@@ -19650,7 +19650,7 @@
     {
         "Id": "4A6E4977-2177-42C9-B7D7-743BA22E9C7E",
         "Name": "Swift-Tuttle",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 51.225,
@@ -19682,7 +19682,7 @@
     {
         "Id": "F4985627-F0F5-4E5C-A270-117D485400C7",
         "Name": "Herschel-Rigollet",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 56.9,
@@ -19714,7 +19714,7 @@
     {
         "Id": "962959B9-ED3B-4CF9-9DD3-640C5AE2A2A6",
         "Name": "Ikeya-Zang",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 101.92,
@@ -19746,7 +19746,7 @@
     {
         "Id": "F81E6D58-50E9-4B83-B689-46EE9D82FA1E",
         "Name": "McNaught-Russell",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 250,
@@ -19778,7 +19778,7 @@
     {
         "Id": "BE698390-4A09-414E-8E04-43334AECB8D2",
         "Name": "Brooks",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 306.9,
@@ -19810,7 +19810,7 @@
     {
         "Id": "290EEA52-D667-4FF5-A9A5-9139F694F65B",
         "Name": "Hale-Bopp",
-        "Parent": 0,
+        "Parent": "00000000-0000-0000-0000-000000000000",
         "BodyClassId": 5,
         "BodyTypeId": 14,
         "OrbitalDistance": 370.8,

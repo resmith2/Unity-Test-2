@@ -41,3 +41,6 @@ C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CS
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.dll
 C:\Users\Robert\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\rsmith\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\rsmith\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\rsmith\Documents\GitHub\Unity-Test-2\Unity Test 2\obj\Debug\Assembly-CSharp.dll

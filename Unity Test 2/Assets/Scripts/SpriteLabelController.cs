@@ -30,9 +30,9 @@ public class SpriteLabelController : MonoBehaviour
 
     private static Vector3 PointOnCircle(float radius, float angleInDegrees, Vector3 origin)
     {
+	    // Convert from degrees to radians via multiplication by PI/180        
         var radians = angleInDegrees * Math.PI / 180f;
 
-        // Convert from degrees to radians via multiplication by PI/180        
         float x = (float)(radius * Math.Cos(radians)) + origin.x;
         float y = (float)(radius * Math.Sin(radians)) + origin.y;
 

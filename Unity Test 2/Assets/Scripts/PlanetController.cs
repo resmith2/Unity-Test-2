@@ -13,7 +13,6 @@ public class PlanetController : MonoBehaviour
     private LineRenderer _lineRenderer;
     private float _daysPerYear;
 
-
     private void Awake()
     {
         transform.position = new Vector3(OrbitDistance, 0f, 0f);
